@@ -1,0 +1,1135 @@
+﻿Log file open, 11/27/18 11:16:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1944214818) SRandInit(-1944214818).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.526029
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.583s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am C-02480 (10.9.70.123:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.27-11.16.09:717][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.27-11.16.09:717][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.27-11.16.09:734][  0]LogInit: Computer: C-02480
+[2018.11.27-11.16.09:734][  0]LogInit: User: 1600747
+[2018.11.27-11.16.09:734][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.11.27-11.16.09:734][  0]LogInit: High frequency timer resolution =3.507502 MHz
+[2018.11.27-11.16.09:735][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.11.27-11.16.09:735][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.27-11.16.09:735][  0]LogMemory: Process Physical Memory: 276.88 MB used, 276.88 MB peak
+[2018.11.27-11.16.09:735][  0]LogMemory: Process Virtual Memory: 273.27 MB used, 273.27 MB peak
+[2018.11.27-11.16.09:735][  0]LogMemory: Physical Memory: 6786.59 MB used,  25903.50 MB free, 32690.09 MB total
+[2018.11.27-11.16.09:735][  0]LogMemory: Virtual Memory: 703.27 MB used,  25903.50 MB free, 134217728.00 MB total
+[2018.11.27-11.16.10:074][  0]LogInit: Using OS detected language (en-GB).
+[2018.11.27-11.16.10:074][  0]LogInit: Using OS detected locale (en-GB).
+[2018.11.27-11.16.10:088][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.11.27-11.16.10:533][  0]LogStreaming: Display: Took  0.459s to EndInitTextLocalization.
+[2018.11.27-11.16.10:534][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.27-11.16.10:622][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.27-11.16.10:622][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.27-11.16.11:116][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.27-11.16.11:400][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.11.27-11.16.11:400][  0]LogD3D11RHI:       8086/0/16345 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.27-11.16.11:406][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.27-11.16.11:406][  0]LogD3D11RHI:       0/0/16345 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.27-11.16.11:406][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.27-11.16.11:416][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.27-11.16.11:416][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.27-11.16.11:416][  0]LogWindows: EnumDisplayDevices:
+[2018.11.27-11.16.11:416][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.11.27-11.16.11:416][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.11.27-11.16.11:417][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.11.27-11.16.11:417][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.11.27-11.16.11:417][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.11.27-11.16.11:417][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.11.27-11.16.11:417][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.11.27-11.16.11:417][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.11.27-11.16.11:417][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
+[2018.11.27-11.16.11:535][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.11.27-11.16.11:535][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.11.27-11.16.11:535][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.27-11.16.11:556][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.11.27-11.16.11:600][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Intermediate/Shaders/WorkingDirectory/10416/).
+[2018.11.27-11.16.11:601][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/1600747/AppData/Local/Temp/UnrealShaderWorkingDir/00A7FBA44C307567601C43A0EEBFAEE9/'.
+[2018.11.27-11.16.13:462][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.27-11.16.13:494][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.27-11.16.13:524][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.27-11.16.13:554][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.27-11.16.13:590][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.27-11.16.13:620][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.27-11.16.13:657][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.27-11.16.13:688][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.27-11.16.13:728][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.27-11.16.13:761][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.11.27-11.16.13:800][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.11.27-11.16.13:867][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.11.27-11.16.13:907][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.11.27-11.16.13:959][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.11.27-11.16.14:001][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.11.27-11.16.14:109][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.11.27-11.16.14:109][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.11.27-11.16.14:165][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-11.16.14:200][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.27-11.16.14:310][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.27-11.16.14:341][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.27-11.16.14:390][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.27-11.16.14:438][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.27-11.16.14:470][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.27-11.16.14:489][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.27-11.16.14:489][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.27-11.16.15:504][  0]LogXGEController: Cleaning working directory: C:/Users/1600747/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.27-11.16.15:504][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.27-11.16.15:504][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.27-11.16.15:504][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.27-11.16.16:587][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.27-11.16.16:674][  0]LogDerivedDataCache: Loaded boot cache 0.09s 74MB C:/Users/1600747/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.11.27-11.16.16:674][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/1600747/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.11.27-11.16.16:675][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.27-11.16.16:675][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.27-11.16.16:675][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.27-11.16.16:675][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.27-11.16.16:696][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.27-11.16.16:709][  0]LogDerivedDataCache: Using Local data cache path C:/Users/1600747/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.27-11.16.16:709][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.27-11.16.16:709][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.27-11.16.16:720][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.27-11.16.16:720][  0]LogSlate: Using Freetype 2.6.0
+[2018.11.27-11.16.16:723][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.27-11.16.16:723][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.27-11.16.17:248][  0]LogAssetRegistry: FAssetRegistry took 0.0264 seconds to start up
+[2018.11.27-11.16.17:599][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.27-11.16.18:182][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.27-11.16.18:218][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.27-11.16.18:218][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.27-11.16.18:218][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.27-11.16.18:218][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.11.27-11.16.18:218][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.11.27-11.16.18:259][  0]LogNetVersion: MyProject , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2475486345)
+[2018.11.27-11.16.18:855][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.085088 seconds
+[2018.11.27-11.16.18:861][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.11.27-11.16.18:861][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.11.27-11.16.18:861][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.27-11.16.21:778][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.27-11.16.21:814][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.27-11.16.22:319][  0]SourceControl: Source control is disabled
+[2018.11.27-11.16.22:319][  0]SourceControl: Source control is disabled
+[2018.11.27-11.16.22:345][  0]SourceControl: Source control is disabled
+[2018.11.27-11.16.22:371][  0]SourceControl: Source control is disabled
+[2018.11.27-11.16.23:319][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.27-11.16.23:623][  0]LogOcInput: OculusInput pre-init called
+[2018.11.27-11.16.23:793][  0]LogEngine: Initializing Engine...
+[2018.11.27-11.16.23:796][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.27-11.16.23:797][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.27-11.16.23:797][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.27-11.16.24:091][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.27-11.16.24:153][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-11.16.24:369][  0]LogInit: FAudioDevice initialized.
+[2018.11.27-11.16.24:468][  0]LogDerivedDataCache: Saved boot cache 0.10s 74MB C:/Users/1600747/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.11.27-11.16.24:479][  0]LogInit: Texture streaming: Enabled
+[2018.11.27-11.16.24:501][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.27-11.16.24:501][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={8621C058-49D8-0489-C33D-06B0784D3C81}
+[2018.11.27-11.16.24:521][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.27-11.16.25:334][  0]LogInit: Transaction tracking system initialized
+[2018.11.27-11.16.25:364][  0]BlueprintLog: New page: Editor Load
+[2018.11.27-11.16.25:453][  0]LocalizationService: Localization service is disabled
+[2018.11.27-11.16.25:637][  0]LogConsoleResponse: Display: 
+[2018.11.27-11.16.25:835][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.27-11.16.25:835][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.27-11.16.25:835][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.27-11.16.25:835][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.27-11.16.25:836][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.27-11.16.26:461][  0]LogFileCache: Scanning file cache for directory 'D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Content/' took 0.01s
+[2018.11.27-11.16.26:535][  0]SourceControl: Source control is disabled
+[2018.11.27-11.16.26:536][  0]Cmd: MAP LOAD FILE="D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Content/TwinStickBP/Maps/Level_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.27-11.16.26:561][  0]LogSlate: Took 0.002110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.27-11.16.43:075][  0]LogSlate: Window 'Message' being destroyed
+[2018.11.27-11.16.43:075][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.27-11.16.43:078][  0]LightingResults: New page: Lighting Build
+[2018.11.27-11.16.43:082][  0]MapCheck: New page: Map Check
+[2018.11.27-11.16.43:082][  0]LightingResults: New page: Lighting Build
+[2018.11.27-11.16.43:091][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.27-11.16.43:093][  0]LoadErrors: New page: New Map
+[2018.11.27-11.16.43:174][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.27-11.16.43:273][  0]LogCollectionManager: Loaded 0 collections in 0.003819 seconds
+[2018.11.27-11.16.43:330][  0]LogFileCache: Scanning file cache for directory 'D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Saved/Collections/' took 0.01s
+[2018.11.27-11.16.43:330][  0]LogFileCache: Scanning file cache for directory 'D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Content/Developers/1600747/Collections/' took 0.01s
+[2018.11.27-11.16.43:330][  0]LogFileCache: Scanning file cache for directory 'D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Content/Collections/' took 0.01s
+[2018.11.27-11.16.43:330][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.11.27-11.16.43:355][  0]LogContentBrowser: Native class hierarchy populated in 0.0231 seconds. Added 2452 classes and 558 folders.
+[2018.11.27-11.16.43:365][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.27-11.16.43:514][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.27-11.16.43:520][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.27-11.16.43:545][  0]LogSlate: Took 0.002038 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.27-11.16.43:559][  0]LogSlate: Took 0.001638 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.27-11.16.43:686][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2018.11.27-11.16.43:831][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.27-11.16.43:853][  0]LogSlate: Window 'Tutorials' being destroyed
+[2018.11.27-11.16.43:885][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.27-11.16.43:886][  0]LogLoad: (Engine Initialization) Total time: 38.91 seconds
+[2018.11.27-11.16.43:886][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.27-11.16.43:917][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.27-11.16.43:965][  1]LogAssetRegistry: Asset discovery search completed in 26.7400 seconds
+[2018.11.27-11.16.43:967][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.27-11.16.43:967][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000059 seconds (updated 0 objects)
+[2018.11.27-11.16.46:145][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-11.16.47:931][463]LogSlate: Took 0.001828 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.27-11.16.48:054][463]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b354939f80, Size=312, Default__BP_Enemy_AI_C Function /Game/Blueprints/Enemy/BP_Enemy_AI.BP_Enemy_AI_C:ExecuteUbergraph_BP_Enemy_AI
+[2018.11.27-11.16.48:056][463]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b347357100, Size=768, Default__TwinStickPawn_C Function /Game/Blueprints/Player/TwinStickPawn.TwinStickPawn_C:ExecuteUbergraph_TwinStickPawn
+[2018.11.27-11.16.48:057][463]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b347bcc600, Size=456, Default__TwinStickProjectile_C Function /Game/Blueprints/Player/TwinStickProjectile.TwinStickProjectile_C:ExecuteUbergraph_TwinStickProjectile
+[2018.11.27-11.16.48:082][463]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b347bcc600, Size=456
+[2018.11.27-11.16.48:082][463]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b34727aa00, Size=456, Default__TwinStickProjectile_C Function /Engine/Transient.REINST_TwinStickProjectile_C_5:ExecuteUbergraph_TwinStickProjectile
+[2018.11.27-11.16.48:082][463]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b347357100, Size=768
+[2018.11.27-11.16.48:082][463]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b34726c700, Size=768, Default__TwinStickPawn_C Function /Engine/Transient.REINST_TwinStickPawn_C_6:ExecuteUbergraph_TwinStickPawn
+[2018.11.27-11.16.48:083][463]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b354939f80, Size=312
+[2018.11.27-11.16.48:083][463]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b34726b740, Size=312, Default__BP_Enemy_AI_C Function /Engine/Transient.REINST_BP_Enemy_AI_C_7:ExecuteUbergraph_BP_Enemy_AI
+[2018.11.27-11.16.48:093][463]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3471af400, Size=456, Default__TwinStickProjectile_C Function /Game/Blueprints/Player/TwinStickProjectile.TwinStickProjectile_C:ExecuteUbergraph_TwinStickProjectile
+[2018.11.27-11.16.48:095][463]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b336463a00, Size=768, Default__TwinStickPawn_C Function /Game/Blueprints/Player/TwinStickPawn.TwinStickPawn_C:ExecuteUbergraph_TwinStickPawn
+[2018.11.27-11.16.48:096][463]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b347269300, Size=312, Default__BP_Enemy_AI_C Function /Game/Blueprints/Enemy/BP_Enemy_AI.BP_Enemy_AI_C:ExecuteUbergraph_BP_Enemy_AI
+[2018.11.27-11.16.48:107][463]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3364c7790, Size=80, Default__BP_EnemySpawner_C Function /Game/Blueprints/Enemy/BP_EnemySpawner.BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner
+[2018.11.27-11.16.48:109][463]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3364c7790, Size=80
+[2018.11.27-11.16.48:109][463]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3364c7790, Size=80, Default__BP_EnemySpawner_C Function /Engine/Transient.REINST_BP_EnemySpawner_C_11:ExecuteUbergraph_BP_EnemySpawner
+[2018.11.27-11.16.48:111][463]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3364c5210, Size=80, Default__BP_EnemySpawner_C Function /Game/Blueprints/Enemy/BP_EnemySpawner.BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner
+[2018.11.27-11.16.48:114][463]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b346ff3760, Size=48, Default__TwinStickGameMode_C Function /Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode
+[2018.11.27-11.16.48:115][463]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b346ff3760, Size=48
+[2018.11.27-11.16.48:115][463]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b346ff3760, Size=48, Default__TwinStickGameMode_C Function /Engine/Transient.REINST_TwinStickGameMode_C_13:ExecuteUbergraph_TwinStickGameMode
+[2018.11.27-11.16.48:116][463]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b346ff3400, Size=48, Default__TwinStickGameMode_C Function /Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode
+[2018.11.27-11.16.48:132][463]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3471d3bd0, Size=16, Default__Level_01_C Function /Game/Maps/Level_01.Level_01_C:ExecuteUbergraph_Level_01
+[2018.11.27-11.16.48:133][463]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3471d3bd0, Size=16
+[2018.11.27-11.16.48:133][463]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3471d3a10, Size=16, Default__Level_01_C Function /Engine/Transient.REINST_Level_01_C_15:ExecuteUbergraph_Level_01
+[2018.11.27-11.16.48:133][463]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3471d3030, Size=16, Default__Level_01_C Function /Game/Maps/Level_01.Level_01_C:ExecuteUbergraph_Level_01
+[2018.11.27-11.16.48:154][463]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.11.27-11.16.48:154][463]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2018.11.27-11.16.48:154][463]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.11.27-11.16.48:154][463]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2018.11.27-11.16.48:154][463]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.11.27-11.16.48:154][463]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 256X128)
+[2018.11.27-11.16.48:154][463]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 512X64)
+[2018.11.27-11.16.48:154][463]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2018.11.27-11.16.48:286][463]LogAIModule: Creating AISystem for world Level_01
+[2018.11.27-11.16.48:322][463]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b34726b740, Size=312
+[2018.11.27-11.16.48:322][463]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b34726c700, Size=768
+[2018.11.27-11.16.48:322][463]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b34727aa00, Size=456
+[2018.11.27-11.16.48:322][463]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3364c7790, Size=80
+[2018.11.27-11.16.48:322][463]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b346ff3760, Size=48
+[2018.11.27-11.16.48:322][463]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3471d3a10, Size=16
+[2018.11.27-11.16.48:324][463]Cmd: MAP LOAD FILE="D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Content/Maps/Level_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.27-11.16.48:325][463]LightingResults: New page: Lighting Build
+[2018.11.27-11.16.48:325][463]LoadErrors: New page: Loading map: Level_01.umap
+[2018.11.27-11.16.48:325][463]MapCheck: New page: Map Check
+[2018.11.27-11.16.48:325][463]LightingResults: New page: Lighting Build
+[2018.11.27-11.16.48:343][463]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.27-11.16.48:373][463]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.27-11.16.48:465][463]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 92.801ms to complete.
+[2018.11.27-11.16.48:466][463]LogFileHelpers: Loading map 'Level_01' took 0.142
+[2018.11.27-11.16.56:000][289]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-11.16.56:059][296]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.27-11.16.56:074][296]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-11.16.56:075][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-11.16.56:075][296]PIE: New page: PIE session: Level_01 (27 Nov 2018 11:16:56)
+[2018.11.27-11.16.56:075][296]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_01
+[2018.11.27-11.16.56:081][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005599s)
+[2018.11.27-11.16.56:081][296]LogAIModule: Creating AISystem for world Level_01
+[2018.11.27-11.16.56:082][296]LogPlayLevel: PIE: World Init took: (0.000717s)
+[2018.11.27-11.16.56:082][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01.Level_01 to /Game/Maps/UEDPIE_0_Level_01.Level_01 (0.006458s)
+[2018.11.27-11.16.56:094][296]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-11.16.56:117][296]LogInit: FAudioDevice initialized.
+[2018.11.27-11.16.56:158][296]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.27-11.16.56:160][296]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2018.11.27-11.16.56
+[2018.11.27-11.16.56:161][296]LogWorld: Bringing up level for play took: 0.001333
+[2018.11.27-11.16.56:164][296]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.11.27-11.16.56:165][296]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_01 -0.782
+[2018.11.27-11.16.56:165][296]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-11.17.09:607][882]LogCharacterMovement: BP_Enemy_AI_C_10 is stuck and failed to move! Velocity: X=-460.77 Y=384.30 Z=0.00 Location: X=-467.22 Y=-398.17 Z=240.15 Normal: X=-0.09 Y=-1.00 Z=0.00 PenetrationDepth:0.000 Actor:BP_Enemy_AI_C_9 Component:Cube BoneName:None (0 other events since notify)
+[2018.11.27-11.17.10:074][938]LogCharacterMovement: BP_Enemy_AI_C_5 is stuck and failed to move! Velocity: X=254.39 Y=536.47 Z=0.00 Location: X=-763.56 Y=-166.58 Z=240.15 Normal: X=-0.23 Y=-0.97 Z=0.00 PenetrationDepth:0.000 Actor:BP_Enemy_AI_C_4 Component:Cube BoneName:None (0 other events since notify)
+[2018.11.27-11.17.10:607][  2]LogCharacterMovement: BP_Enemy_AI_C_10 is stuck and failed to move! Velocity: X=419.17 Y=429.30 Z=0.00 Location: X=-442.46 Y=90.72 Z=240.15 Normal: X=-0.39 Y=-0.92 Z=0.00 PenetrationDepth:0.000 Actor:BP_Enemy_AI_C_9 Component:Cube BoneName:None (0 other events since notify)
+[2018.11.27-11.17.12:074][178]LogCharacterMovement: BP_Enemy_AI_C_6 is stuck and failed to move! Velocity: X=47.84 Y=576.72 Z=0.00 Location: X=13.00 Y=176.68 Z=240.15 Normal: X=-0.32 Y=-0.95 Z=0.00 PenetrationDepth:0.000 Actor:BP_Enemy_AI_C_8 Component:Cube BoneName:None (0 other events since notify)
+[2018.11.27-11.17.12:607][242]LogCharacterMovement: BP_Enemy_AI_C_4 is stuck and failed to move! Velocity: X=-451.69 Y=289.72 Z=0.00 Location: X=-14.62 Y=662.63 Z=240.15 Normal: X=0.98 Y=0.21 Z=0.00 PenetrationDepth:0.000 Actor:BP_Enemy_AI_C_5 Component:Cube BoneName:None (0 other events since notify)
+[2018.11.27-11.17.24:768][700]LogCharacterMovement: BP_Enemy_AI_C_20 is stuck and failed to move! Velocity: X=-194.64 Y=-26.10 Z=0.00 Location: X=-518.79 Y=-358.95 Z=240.15 Normal: X=0.41 Y=0.91 Z=0.00 PenetrationDepth:0.000 Actor:BP_Enemy_AI_C_21 Component:Cube BoneName:None (0 other events since notify)
+[2018.11.27-11.17.27:027][971]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-11.17.27:057][971]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-11.17.34:104][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-11.17.40:081][385]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.11.27-11.17.40:336][385]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3612add08, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.11.27-11.17.40:337][385]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3612add00, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.11.27-11.17.40:732][385]LogSlate: Took 0.001299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.27-11.17.44:031][689]LogSlate: Window 'TwinStickGameMode' being destroyed
+[2018.11.27-11.21.12:097][569]LogSlate: Took 0.001500 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.27-11.21.21:612][620]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b38ddcc7a0, Size=4, Default__SKEL_TwinStickPawn_C Function /Game/Blueprints/Player/TwinStickPawn.SKEL_TwinStickPawn_C:ExecuteUbergraph_TwinStickPawn
+[2018.11.27-11.21.47:458][671]BlueprintLog: New page: Compile TwinStickPawn
+[2018.11.27-11.21.47:475][671]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b38ddcc7a0, Size=4
+[2018.11.27-11.21.47:475][671]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3473d9af8, Size=4, Default__SKEL_TwinStickPawn_C Function /Engine/Transient.REINST_SKEL_TwinStickPawn_C_31:ExecuteUbergraph_TwinStickPawn
+[2018.11.27-11.21.47:496][671]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b336463a00, Size=768
+[2018.11.27-11.21.47:496][671]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b38ebb2e00, Size=768, Default__TwinStickPawn_C Function /Engine/Transient.REINST_TwinStickPawn_C_35:ExecuteUbergraph_TwinStickPawn
+[2018.11.27-11.21.47:503][671]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b390475600, Size=768, Default__TwinStickPawn_C Function /Game/Blueprints/Player/TwinStickPawn.TwinStickPawn_C:ExecuteUbergraph_TwinStickPawn
+[2018.11.27-11.21.47:784][671]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3473d9af8, Size=4
+[2018.11.27-11.22.08:513][ 94]LogEditorViewport: Clicking on Actor (LMB): BP_EnemySpawner_C (BP_EnemySpawner)
+[2018.11.27-11.22.13:811][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-11.22.13:899][600]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.27-11.22.13:930][600]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-11.22.13:930][600]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-11.22.13:930][600]PIE: New page: PIE session: Level_01 (27 Nov 2018 11:22:13)
+[2018.11.27-11.22.13:931][600]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_01
+[2018.11.27-11.22.13:935][600]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004520s)
+[2018.11.27-11.22.13:936][600]LogAIModule: Creating AISystem for world Level_01
+[2018.11.27-11.22.13:936][600]LogPlayLevel: PIE: World Init took: (0.000686s)
+[2018.11.27-11.22.13:936][600]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01.Level_01 to /Game/Maps/UEDPIE_0_Level_01.Level_01 (0.005325s)
+[2018.11.27-11.22.13:949][600]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b38ebb2e00, Size=768
+[2018.11.27-11.22.13:955][600]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-11.22.13:978][600]LogInit: FAudioDevice initialized.
+[2018.11.27-11.22.14:013][600]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.27-11.22.14:015][600]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2018.11.27-11.22.14
+[2018.11.27-11.22.14:015][600]LogWorld: Bringing up level for play took: 0.001375
+[2018.11.27-11.22.14:016][600]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_01 1.07
+[2018.11.27-11.22.14:016][600]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-11.22.18:497][118]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-11.22.18:532][118]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-11.22.19:884][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-11.22.34:152][954]LogEditorViewport: Clicking on Actor (LMB): BP_EnemySpawner_C (BP_EnemySpawner)
+[2018.11.27-11.22.34:360][974]Cmd: EDIT COPY
+[2018.11.27-11.22.34:534][993]Cmd: EDIT PASTE
+[2018.11.27-11.22.37:470][336]LogEditorViewport: Clicking on Actor (LMB): BP_EnemySpawner_C (BP_EnemySpawner2)
+[2018.11.27-11.22.45:490][232]LogEditorViewport: Clicking on Actor (LMB): BP_EnemySpawner_C (BP_EnemySpawner)
+[2018.11.27-11.22.53:346][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-11.22.53:429][106]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.27-11.22.53:445][106]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-11.22.53:445][106]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-11.22.53:446][106]PIE: New page: PIE session: Level_01 (27 Nov 2018 11:22:53)
+[2018.11.27-11.22.53:446][106]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_01
+[2018.11.27-11.22.53:450][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004514s)
+[2018.11.27-11.22.53:451][106]LogAIModule: Creating AISystem for world Level_01
+[2018.11.27-11.22.53:451][106]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2018.11.27-11.22.53:451][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01.Level_01 to /Game/Maps/UEDPIE_0_Level_01.Level_01 (0.005424s)
+[2018.11.27-11.22.53:473][106]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-11.22.53:499][106]LogInit: FAudioDevice initialized.
+[2018.11.27-11.22.53:532][106]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.27-11.22.53:533][106]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2018.11.27-11.22.53
+[2018.11.27-11.22.53:534][106]LogWorld: Bringing up level for play took: 0.001095
+[2018.11.27-11.22.53:534][106]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_01 0.589
+[2018.11.27-11.22.53:535][106]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-11.22.58:394][685]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-11.22.58:440][685]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-11.22.59:317][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-11.23.47:666][521]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b36c09a778, Size=4, Default__SKEL_TwinStickGameMode_C Function /Game/Blueprints/TwinStickGameMode.SKEL_TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode
+[2018.11.27-11.24.03:244][385]BlueprintLog: New page: Compile TwinStickGameMode
+[2018.11.27-11.24.03:246][385]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b36c09a778, Size=4
+[2018.11.27-11.24.03:246][385]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3473d8158, Size=4, Default__SKEL_TwinStickGameMode_C Function /Engine/Transient.REINST_SKEL_TwinStickGameMode_C_39:ExecuteUbergraph_TwinStickGameMode
+[2018.11.27-11.24.03:249][385]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b346ff3400, Size=48
+[2018.11.27-11.24.03:249][385]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b38e9c5d50, Size=48, Default__TwinStickGameMode_C Function /Engine/Transient.REINST_TwinStickGameMode_C_41:ExecuteUbergraph_TwinStickGameMode
+[2018.11.27-11.24.03:251][385]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3943f7c48, Size=56, Default__TwinStickGameMode_C Function /Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode
+[2018.11.27-11.24.03:400][385]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3473d8158, Size=4
+[2018.11.27-11.24.04:826][554]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.27-11.24.04:842][554]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-11.24.04:842][554]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-11.24.04:842][554]PIE: New page: PIE session: Level_01 (27 Nov 2018 11:24:04)
+[2018.11.27-11.24.04:842][554]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_01
+[2018.11.27-11.24.04:847][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004249s)
+[2018.11.27-11.24.04:847][554]LogAIModule: Creating AISystem for world Level_01
+[2018.11.27-11.24.04:847][554]LogPlayLevel: PIE: World Init took: (0.000567s)
+[2018.11.27-11.24.04:847][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01.Level_01 to /Game/Maps/UEDPIE_0_Level_01.Level_01 (0.004924s)
+[2018.11.27-11.24.04:860][554]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b38e9c5d50, Size=48
+[2018.11.27-11.24.04:867][554]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-11.24.04:889][554]LogInit: FAudioDevice initialized.
+[2018.11.27-11.24.04:919][554]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.27-11.24.04:921][554]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2018.11.27-11.24.04
+[2018.11.27-11.24.04:921][554]LogWorld: Bringing up level for play took: 0.001069
+[2018.11.27-11.24.04:922][554]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (EnemySpawn) or object (TwinStickGameMode_C_0)
+[2018.11.27-11.24.04:922][554]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (EnemySpawn) or object (TwinStickGameMode_C_0)
+[2018.11.27-11.24.04:922][554]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_01 -0.022
+[2018.11.27-11.24.04:922][554]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-11.24.07:670][870]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-11.24.07:707][870]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-11.24.08:644][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-11.24.14:915][717]BlueprintLog: New page: Compile TwinStickGameMode
+[2018.11.27-11.24.14:920][717]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3943f7c48, Size=56
+[2018.11.27-11.24.14:920][717]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3943f7c48, Size=56, Default__TwinStickGameMode_C Function /Engine/Transient.REINST_TwinStickGameMode_C_45:ExecuteUbergraph_TwinStickGameMode
+[2018.11.27-11.24.14:922][717]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b38e852540, Size=64, Default__TwinStickGameMode_C Function /Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode
+[2018.11.27-11.24.17:222][964]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.27-11.24.17:238][964]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-11.24.17:238][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-11.24.17:238][964]PIE: New page: PIE session: Level_01 (27 Nov 2018 11:24:17)
+[2018.11.27-11.24.17:238][964]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_01
+[2018.11.27-11.24.17:242][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004248s)
+[2018.11.27-11.24.17:243][964]LogAIModule: Creating AISystem for world Level_01
+[2018.11.27-11.24.17:243][964]LogPlayLevel: PIE: World Init took: (0.000608s)
+[2018.11.27-11.24.17:243][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01.Level_01 to /Game/Maps/UEDPIE_0_Level_01.Level_01 (0.004982s)
+[2018.11.27-11.24.17:256][964]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3943f7c48, Size=56
+[2018.11.27-11.24.17:263][964]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-11.24.17:288][964]LogInit: FAudioDevice initialized.
+[2018.11.27-11.24.17:317][964]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.27-11.24.17:318][964]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2018.11.27-11.24.17
+[2018.11.27-11.24.17:319][964]LogWorld: Bringing up level for play took: 0.001134
+[2018.11.27-11.24.17:319][964]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_01 0.376
+[2018.11.27-11.24.17:320][964]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-11.24.24:105][766]LogCharacterMovement: BP_Enemy_AI_C_5 is stuck and failed to move! Velocity: X=208.81 Y=-541.18 Z=0.00 Location: X=571.64 Y=-869.61 Z=238.96 Normal: X=-0.51 Y=-0.13 Z=-0.85 PenetrationDepth:0.006 Actor:TemplateCube_Rounded_20 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2018.11.27-11.24.45:375][316]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-11.24.45:422][316]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-11.27.59:308][523]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.27-11.27.59:351][523]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3471d3030, Size=16
+[2018.11.27-11.27.59:351][523]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b38e2d8080, Size=16, Default__Level_01_C Function /Engine/Transient.REINST_Level_01_C_49:ExecuteUbergraph_Level_01
+[2018.11.27-11.27.59:352][523]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b38e2daae0, Size=16, Default__Level_01_C Function /Game/Maps/Level_01.Level_01_C:ExecuteUbergraph_Level_01
+[2018.11.27-11.27.59:464][523]LogSavePackage: Save=116.87ms
+[2018.11.27-11.27.59:464][523]LogSavePackage: Moving 'D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Saved/Level_01_Auto17D083E0C443FECDB3438F7AA37F681E8.tmp' to 'D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Saved/Autosaves/Game/Maps/Level_01_Auto1.umap'
+[2018.11.27-11.27.59:466][523]LogSavePackage: Display: Finished SavePackage D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Saved/Autosaves/Game/Maps/Level_01_Auto1.umap
+[2018.11.27-11.27.59:468][523]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_01' took 0.145
+[2018.11.27-11.27.59:468][523]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.145
+[2018.11.27-11.27.59:470][523]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Player/TwinStickPawn] ([1] browsable assets)...
+[2018.11.27-11.27.59:492][523]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player/TwinStickPawn.TwinStickPawn]
+[2018.11.27-11.27.59:492][523]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/TwinStickPawn]
+[2018.11.27-11.27.59:558][523]LogSavePackage: Save=62.20ms
+[2018.11.27-11.27.59:558][523]LogSavePackage: Moving 'D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Saved/TwinStickPawn_Auto13C8DD9E24EF9A1395558269C692962E0.tmp' to 'D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Saved/Autosaves/Game/Blueprints/Player/TwinStickPawn_Auto1.uasset'
+[2018.11.27-11.27.59:560][523]LogSavePackage: Display: Finished SavePackage D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Saved/Autosaves/Game/Blueprints/Player/TwinStickPawn_Auto1.uasset
+[2018.11.27-11.27.59:560][523]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/TwinStickGameMode] ([1] browsable assets)...
+[2018.11.27-11.27.59:560][523]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TwinStickGameMode]
+[2018.11.27-11.27.59:574][523]LogSavePackage: Save=10.34ms
+[2018.11.27-11.27.59:574][523]LogSavePackage: Moving 'D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Saved/TwinStickGameMode_Auto15CDFE28A49E3E9A795FBD2BE0BF779C0.tmp' to 'D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Saved/Autosaves/Game/Blueprints/TwinStickGameMode_Auto1.uasset'
+[2018.11.27-11.27.59:575][523]LogSavePackage: Display: Finished SavePackage D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Saved/Autosaves/Game/Blueprints/TwinStickGameMode_Auto1.uasset
+[2018.11.27-11.27.59:575][523]LogFileHelpers: Auto-saving content packages took 0.106
+[2018.11.27-11.34.26:213][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-11.34.26:596][925]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.27-11.34.26:618][925]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-11.34.26:618][925]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-11.34.26:618][925]PIE: New page: PIE session: Level_01 (27 Nov 2018 11:34:26)
+[2018.11.27-11.34.26:618][925]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_01
+[2018.11.27-11.34.26:623][925]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004669s)
+[2018.11.27-11.34.26:624][925]LogAIModule: Creating AISystem for world Level_01
+[2018.11.27-11.34.26:624][925]LogPlayLevel: PIE: World Init took: (0.000755s)
+[2018.11.27-11.34.26:624][925]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01.Level_01 to /Game/Maps/UEDPIE_0_Level_01.Level_01 (0.005556s)
+[2018.11.27-11.34.26:638][925]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b38e2d8080, Size=16
+[2018.11.27-11.34.26:643][925]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-11.34.26:666][925]LogInit: FAudioDevice initialized.
+[2018.11.27-11.34.26:702][925]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.27-11.34.26:704][925]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2018.11.27-11.34.26
+[2018.11.27-11.34.26:704][925]LogWorld: Bringing up level for play took: 0.001203
+[2018.11.27-11.34.26:705][925]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_01 -0.234
+[2018.11.27-11.34.26:705][925]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-11.34.35:166][936]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-11.34.35:203][936]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-11.34.36:225][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-11.34.36:291][ 61]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.27-11.34.36:311][ 61]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-11.34.36:311][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-11.34.36:311][ 61]PIE: New page: PIE session: Level_01 (27 Nov 2018 11:34:36)
+[2018.11.27-11.34.36:311][ 61]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_01
+[2018.11.27-11.34.36:315][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004125s)
+[2018.11.27-11.34.36:316][ 61]LogAIModule: Creating AISystem for world Level_01
+[2018.11.27-11.34.36:316][ 61]LogPlayLevel: PIE: World Init took: (0.000592s)
+[2018.11.27-11.34.36:316][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01.Level_01 to /Game/Maps/UEDPIE_0_Level_01.Level_01 (0.004823s)
+[2018.11.27-11.34.36:334][ 61]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-11.34.36:355][ 61]LogInit: FAudioDevice initialized.
+[2018.11.27-11.34.36:391][ 61]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.27-11.34.36:392][ 61]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2018.11.27-11.34.36
+[2018.11.27-11.34.36:392][ 61]LogWorld: Bringing up level for play took: 0.001076
+[2018.11.27-11.34.36:393][ 61]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_01 -0.546
+[2018.11.27-11.34.36:393][ 61]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-11.34.52:899][ 37]LogCharacterMovement: BP_Enemy_AI_C_18 is stuck and failed to move! Velocity: X=105.29 Y=128.81 Z=0.00 Location: X=28.11 Y=-635.72 Z=240.15 Normal: X=-0.99 Y=0.16 Z=0.00 PenetrationDepth:0.000 Actor:BP_Enemy_AI_C_21 Component:Cube BoneName:None (0 other events since notify)
+[2018.11.27-11.35.10:306][122]LogCharacterMovement: BP_Enemy_AI_C_47 is stuck and failed to move! Velocity: X=-581.67 Y=-147.18 Z=0.00 Location: X=-287.69 Y=30.75 Z=240.15 Normal: X=0.34 Y=-0.94 Z=0.00 PenetrationDepth:0.000 Actor:BP_Enemy_AI_C_44 Component:Cube BoneName:None (0 other events since notify)
+[2018.11.27-11.35.10:839][186]LogCharacterMovement: BP_Enemy_AI_C_44 is stuck and failed to move! Velocity: X=-481.23 Y=-358.35 Z=0.00 Location: X=-513.08 Y=-39.50 Z=240.15 Normal: X=0.96 Y=0.29 Z=0.00 PenetrationDepth:0.000 Actor:BP_Enemy_AI_C_47 Component:Cube BoneName:None (0 other events since notify)
+[2018.11.27-11.35.12:725][412]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-11.35.12:764][412]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-11.36.00:101][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-11.36.07:125][477]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.11.27-11.36.08:593][612]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyProject
+[2018.11.27-11.36.08:593][612]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.11.27-11.36.08:593][612]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2018.11.27-11.36.08:593][612]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.11.27-11.36.08:594][612]LogTemp: BranchPath = C-02480/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = C-02480/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.11.27-11.36.08:602][613]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\1600747\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.11.27-11.41.05:174][967]LogSlate: Window 'Project Settings' being destroyed
+[2018.11.27-11.41.05:177][967]LogSlate: Window 'Project Settings' being destroyed
+[2018.11.27-12.05.37:954][200]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.27-12.24.32:478][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_01" FILE="D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Content/Maps/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.27-12.24.32:508][ 48]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b38e2daae0, Size=16
+[2018.11.27-12.24.32:508][ 48]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b379a50190, Size=16, Default__Level_01_C Function /Engine/Transient.REINST_Level_01_C_53:ExecuteUbergraph_Level_01
+[2018.11.27-12.24.32:509][ 48]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b379a50fe0, Size=16, Default__Level_01_C Function /Game/Maps/Level_01.Level_01_C:ExecuteUbergraph_Level_01
+[2018.11.27-12.24.32:635][ 48]LogSavePackage: Save=130.05ms
+[2018.11.27-12.24.32:635][ 48]LogSavePackage: Moving 'D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Saved/Level_01421603D4463A4CAB6508A9BB13F546DA.tmp' to 'D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Content/Maps/Level_01.umap'
+[2018.11.27-12.24.32:638][ 48]LogSavePackage: Display: Finished SavePackage D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Content/Maps/Level_01.umap
+[2018.11.27-12.24.32:666][ 48]LogFileHelpers: Saving map 'Level_01' took 0.306
+[2018.11.27-12.24.32:671][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/TwinStickPawn" FILE="D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Content/Blueprints/Player/TwinStickPawn.uasset" SILENT=true
+[2018.11.27-12.24.32:734][ 48]LogSavePackage: Save=55.21ms
+[2018.11.27-12.24.32:734][ 48]LogSavePackage: Moving 'D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Saved/TwinStickPawn4EE0705943FAEEC1E1A330987A5AB186.tmp' to 'D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Content/Blueprints/Player/TwinStickPawn.uasset'
+[2018.11.27-12.24.32:737][ 48]LogSavePackage: Display: Finished SavePackage D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Content/Blueprints/Player/TwinStickPawn.uasset
+[2018.11.27-12.24.32:746][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TwinStickGameMode" FILE="D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Content/Blueprints/TwinStickGameMode.uasset" SILENT=true
+[2018.11.27-12.24.32:761][ 48]LogSavePackage: Save=10.44ms
+[2018.11.27-12.24.32:761][ 48]LogSavePackage: Moving 'D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Saved/TwinStickGameMode9B4E369C42CD932F73AB18BADED2275A.tmp' to 'D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Content/Blueprints/TwinStickGameMode.uasset'
+[2018.11.27-12.24.32:765][ 48]LogSavePackage: Display: Finished SavePackage D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Content/Blueprints/TwinStickGameMode.uasset
+[2018.11.27-12.24.47:658][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.11.27-12.24.48:760][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.11.27-12.40.32:412][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-12.40.32:505][410]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.27-12.40.32:525][410]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-12.40.32:525][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-12.40.32:525][410]PIE: New page: PIE session: Level_01 (27 Nov 2018 12:40:32)
+[2018.11.27-12.40.32:525][410]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_01
+[2018.11.27-12.40.32:530][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004873s)
+[2018.11.27-12.40.32:531][410]LogAIModule: Creating AISystem for world Level_01
+[2018.11.27-12.40.32:531][410]LogPlayLevel: PIE: World Init took: (0.000717s)
+[2018.11.27-12.40.32:531][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01.Level_01 to /Game/Maps/UEDPIE_0_Level_01.Level_01 (0.005713s)
+[2018.11.27-12.40.32:545][410]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b379a50190, Size=16
+[2018.11.27-12.40.32:552][410]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-12.40.32:578][410]LogInit: FAudioDevice initialized.
+[2018.11.27-12.40.32:608][410]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.27-12.40.32:610][410]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2018.11.27-12.40.32
+[2018.11.27-12.40.32:610][410]LogWorld: Bringing up level for play took: 0.001142
+[2018.11.27-12.40.32:611][410]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_01 -0.307
+[2018.11.27-12.40.32:611][410]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-12.41.05:178][280]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-12.41.05:225][280]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-12.41.06:030][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-12.41.06:364][407]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.27-12.41.06:384][407]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-12.41.06:384][407]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-12.41.06:384][407]PIE: New page: PIE session: Level_01 (27 Nov 2018 12:41:06)
+[2018.11.27-12.41.06:384][407]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_01
+[2018.11.27-12.41.06:389][407]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004269s)
+[2018.11.27-12.41.06:389][407]LogAIModule: Creating AISystem for world Level_01
+[2018.11.27-12.41.06:389][407]LogPlayLevel: PIE: World Init took: (0.000645s)
+[2018.11.27-12.41.06:389][407]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01.Level_01 to /Game/Maps/UEDPIE_0_Level_01.Level_01 (0.005031s)
+[2018.11.27-12.41.06:407][407]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-12.41.06:430][407]LogInit: FAudioDevice initialized.
+[2018.11.27-12.41.06:465][407]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.27-12.41.06:466][407]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2018.11.27-12.41.06
+[2018.11.27-12.41.06:466][407]LogWorld: Bringing up level for play took: 0.001046
+[2018.11.27-12.41.06:467][407]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_01 -0.45
+[2018.11.27-12.41.06:467][407]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-12.41.09:616][782]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-12.41.09:655][782]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-12.41.12:112][ 71]LogEditorViewport: Clicking on Actor (LMB): BP_EnemySpawner_C (BP_EnemySpawner)
+[2018.11.27-12.41.12:913][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.11.27-12.46.43:951][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-12.46.50:562][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-12.46.59:804][ 24]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.11.27-12.47.09:473][ 64]LogRenderer: Reallocating scene render targets to support 1616x1260 Format 10 NumSamples 1 (Frame:1).
+[2018.11.27-12.48.03:100][374]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3a5d93208, Size=4, Default__SKEL_TwinStickPawn_C Function /Game/Blueprints/Player/TwinStickPawn.SKEL_TwinStickPawn_C:ExecuteUbergraph_TwinStickPawn
+[2018.11.27-12.48.08:460][996]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3a5d93208, Size=4
+[2018.11.27-12.48.08:460][996]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b38ddcd168, Size=4, Default__SKEL_TwinStickPawn_C Function /Engine/Transient.REINST_SKEL_TwinStickPawn_C_59:ExecuteUbergraph_TwinStickPawn
+[2018.11.27-12.48.08:463][996]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b38ddcf698, Size=4, Default__SKEL_TwinStickPawn_C Function /Game/Blueprints/Player/TwinStickPawn.SKEL_TwinStickPawn_C:ExecuteUbergraph_TwinStickPawn
+[2018.11.27-12.49.16:622][788]BlueprintLog: New page: Compile TwinStickPawn
+[2018.11.27-12.49.16:641][788]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b38ddcf698, Size=4
+[2018.11.27-12.49.16:641][788]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b38ddcf698, Size=4, Default__SKEL_TwinStickPawn_C Function /Engine/Transient.REINST_SKEL_TwinStickPawn_C_61:ExecuteUbergraph_TwinStickPawn
+[2018.11.27-12.49.16:662][788]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b390475600, Size=768
+[2018.11.27-12.49.16:662][788]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b38eae2200, Size=768, Default__TwinStickPawn_C Function /Engine/Transient.REINST_TwinStickPawn_C_65:ExecuteUbergraph_TwinStickPawn
+[2018.11.27-12.49.16:670][788]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b34783ae80, Size=816, Default__TwinStickPawn_C Function /Game/Blueprints/Player/TwinStickPawn.TwinStickPawn_C:ExecuteUbergraph_TwinStickPawn
+[2018.11.27-12.49.16:964][788]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b38ddcf698, Size=4
+[2018.11.27-12.49.16:964][788]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b38ddcd168, Size=4
+[2018.11.27-12.49.18:880][999]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.27-12.49.18:914][999]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-12.49.18:915][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-12.49.18:915][999]PIE: New page: PIE session: Level_01 (27 Nov 2018 12:49:18)
+[2018.11.27-12.49.18:915][999]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_01
+[2018.11.27-12.49.18:919][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004411s)
+[2018.11.27-12.49.18:920][999]LogAIModule: Creating AISystem for world Level_01
+[2018.11.27-12.49.18:920][999]LogPlayLevel: PIE: World Init took: (0.000572s)
+[2018.11.27-12.49.18:920][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01.Level_01 to /Game/Maps/UEDPIE_0_Level_01.Level_01 (0.005101s)
+[2018.11.27-12.49.18:935][999]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b38eae2200, Size=768
+[2018.11.27-12.49.18:942][999]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-12.49.18:970][999]LogInit: FAudioDevice initialized.
+[2018.11.27-12.49.19:005][999]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.27-12.49.19:007][999]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2018.11.27-12.49.19
+[2018.11.27-12.49.19:007][999]LogWorld: Bringing up level for play took: 0.001052
+[2018.11.27-12.49.19:008][999]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_01 0.094
+[2018.11.27-12.49.19:008][999]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-12.49.22:122][367]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-12.49.22:159][367]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-12.49.23:006][463]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-12.50.45:858][182]BlueprintLog: New page: Compile TwinStickPawn
+[2018.11.27-12.50.45:895][182]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b34783ae80, Size=816
+[2018.11.27-12.50.45:895][182]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b390de6780, Size=816, Default__TwinStickPawn_C Function /Engine/Transient.REINST_TwinStickPawn_C_71:ExecuteUbergraph_TwinStickPawn
+[2018.11.27-12.50.45:902][182]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b395542800, Size=768, Default__TwinStickPawn_C Function /Game/Blueprints/Player/TwinStickPawn.TwinStickPawn_C:ExecuteUbergraph_TwinStickPawn
+[2018.11.27-12.55.13:604][821]BlueprintLog: New page: Compile TwinStickPawn
+[2018.11.27-12.55.13:645][821]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b395542800, Size=768
+[2018.11.27-12.55.13:645][821]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3c68aae00, Size=768, TwinStickPawn_C_95 Function /Engine/Transient.REINST_TwinStickPawn_C_77:ExecuteUbergraph_TwinStickPawn
+[2018.11.27-12.55.13:653][821]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3d29e4700, Size=768, Default__TwinStickPawn_C Function /Game/Blueprints/Player/TwinStickPawn.TwinStickPawn_C:ExecuteUbergraph_TwinStickPawn
+[2018.11.27-12.55.13:961][821]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b390de6780, Size=816
+[2018.11.27-12.55.15:580][  5]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.27-12.55.15:611][  5]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-12.55.15:611][  5]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-12.55.15:611][  5]PIE: New page: PIE session: Level_01 (27 Nov 2018 12:55:15)
+[2018.11.27-12.55.15:611][  5]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_01
+[2018.11.27-12.55.15:615][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004418s)
+[2018.11.27-12.55.15:616][  5]LogAIModule: Creating AISystem for world Level_01
+[2018.11.27-12.55.15:616][  5]LogPlayLevel: PIE: World Init took: (0.000663s)
+[2018.11.27-12.55.15:616][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01.Level_01 to /Game/Maps/UEDPIE_0_Level_01.Level_01 (0.005230s)
+[2018.11.27-12.55.15:632][  5]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3c68aae00, Size=768
+[2018.11.27-12.55.15:638][  5]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-12.55.15:661][  5]LogInit: FAudioDevice initialized.
+[2018.11.27-12.55.15:695][  5]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.27-12.55.15:697][  5]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2018.11.27-12.55.15
+[2018.11.27-12.55.15:698][  5]LogWorld: Bringing up level for play took: 0.002063
+[2018.11.27-12.55.15:699][  5]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_01 0.788
+[2018.11.27-12.55.15:699][  5]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-12.55.23:615][948]LogCharacterMovement: BP_Enemy_AI_C_5 is stuck and failed to move! Velocity: X=-59.33 Y=33.62 Z=0.00 Location: X=-573.51 Y=-176.30 Z=240.15 Normal: X=-0.09 Y=-1.00 Z=0.00 PenetrationDepth:0.000 Actor:BP_Enemy_AI_C_7 Component:Cube BoneName:None (0 other events since notify)
+[2018.11.27-12.55.37:594][623]LogCharacterMovement: BP_Enemy_AI_C_22 is stuck and failed to move! Velocity: X=-17.06 Y=0.62 Z=0.00 Location: X=-3.53 Y=-595.74 Z=240.15 Normal: X=0.83 Y=0.56 Z=0.00 PenetrationDepth:0.000 Actor:BP_Enemy_AI_C_24 Component:Cube BoneName:None (0 other events since notify)
+[2018.11.27-12.55.49:150][  6]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-12.55.49:188][  6]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-12.55.53:159][444]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-12.56.47:818][970]BlueprintLog: New page: Compile TwinStickPawn
+[2018.11.27-12.56.47:859][970]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3d29e4700, Size=768
+[2018.11.27-12.56.47:859][970]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3c62c6500, Size=768, Default__TwinStickPawn_C Function /Engine/Transient.REINST_TwinStickPawn_C_83:ExecuteUbergraph_TwinStickPawn
+[2018.11.27-12.56.47:867][970]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3d29e4a00, Size=768, Default__TwinStickPawn_C Function /Game/Blueprints/Player/TwinStickPawn.TwinStickPawn_C:ExecuteUbergraph_TwinStickPawn
+[2018.11.27-12.56.49:562][129]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.27-12.56.49:593][129]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-12.56.49:593][129]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-12.56.49:593][129]PIE: New page: PIE session: Level_01 (27 Nov 2018 12:56:49)
+[2018.11.27-12.56.49:593][129]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_01
+[2018.11.27-12.56.49:598][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004363s)
+[2018.11.27-12.56.49:598][129]LogAIModule: Creating AISystem for world Level_01
+[2018.11.27-12.56.49:599][129]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2018.11.27-12.56.49:599][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01.Level_01 to /Game/Maps/UEDPIE_0_Level_01.Level_01 (0.005186s)
+[2018.11.27-12.56.49:622][129]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3c62c6500, Size=768
+[2018.11.27-12.56.49:628][129]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-12.56.49:651][129]LogInit: FAudioDevice initialized.
+[2018.11.27-12.56.49:680][129]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.27-12.56.49:683][129]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2018.11.27-12.56.49
+[2018.11.27-12.56.49:683][129]LogWorld: Bringing up level for play took: 0.001862
+[2018.11.27-12.56.49:685][129]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_01 0.774
+[2018.11.27-12.56.49:685][129]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-12.56.58:993][241]LogCharacterMovement: BP_Enemy_AI_C_7 is stuck and failed to move! Velocity: X=-582.64 Y=-143.30 Z=0.00 Location: X=77.49 Y=-27.79 Z=240.15 Normal: X=0.28 Y=-0.96 Z=0.00 PenetrationDepth:0.103 Actor:BP_Enemy_AI_C_8 Component:Cube BoneName:None (0 other events since notify)
+[2018.11.27-12.57.08:649][399]LogCharacterMovement: BP_Enemy_AI_C_22 is stuck and failed to move! Velocity: X=78.27 Y=298.96 Z=0.00 Location: X=318.48 Y=1022.84 Z=240.15 Normal: X=0.01 Y=-1.00 Z=0.00 PenetrationDepth:0.000 Actor:BP_Enemy_AI_C_20 Component:Cube BoneName:None (0 other events since notify)
+[2018.11.27-12.57.15:565][228]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-12.57.15:603][228]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-12.57.18:368][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-12.58.20:475][962]BlueprintLog: New page: Compile TwinStickPawn
+[2018.11.27-12.58.20:516][962]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3d29e4a00, Size=768
+[2018.11.27-12.58.20:516][962]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b36ab2df00, Size=768, Default__TwinStickPawn_C Function /Engine/Transient.REINST_TwinStickPawn_C_89:ExecuteUbergraph_TwinStickPawn
+[2018.11.27-12.58.20:524][962]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3642c7400, Size=768, Default__TwinStickPawn_C Function /Game/Blueprints/Player/TwinStickPawn.TwinStickPawn_C:ExecuteUbergraph_TwinStickPawn
+[2018.11.27-12.58.21:788][ 70]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.27-12.58.21:819][ 70]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-12.58.21:819][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-12.58.21:819][ 70]PIE: New page: PIE session: Level_01 (27 Nov 2018 12:58:21)
+[2018.11.27-12.58.21:819][ 70]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_01
+[2018.11.27-12.58.21:823][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004258s)
+[2018.11.27-12.58.21:824][ 70]LogAIModule: Creating AISystem for world Level_01
+[2018.11.27-12.58.21:824][ 70]LogPlayLevel: PIE: World Init took: (0.000684s)
+[2018.11.27-12.58.21:824][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01.Level_01 to /Game/Maps/UEDPIE_0_Level_01.Level_01 (0.005054s)
+[2018.11.27-12.58.21:839][ 70]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b36ab2df00, Size=768
+[2018.11.27-12.58.21:845][ 70]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-12.58.21:867][ 70]LogInit: FAudioDevice initialized.
+[2018.11.27-12.58.21:896][ 70]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.27-12.58.21:898][ 70]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2018.11.27-12.58.21
+[2018.11.27-12.58.21:898][ 70]LogWorld: Bringing up level for play took: 0.001059
+[2018.11.27-12.58.21:899][ 70]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_01 0.989
+[2018.11.27-12.58.21:899][ 70]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-12.58.28:901][905]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-12.58.28:939][905]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-12.58.30:051][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-12.58.56:483][192]BlueprintLog: New page: Compile TwinStickPawn
+[2018.11.27-12.58.56:523][192]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3642c7400, Size=768
+[2018.11.27-12.58.56:524][192]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b37ad2b700, Size=768, Default__TwinStickPawn_C Function /Engine/Transient.REINST_TwinStickPawn_C_95:ExecuteUbergraph_TwinStickPawn
+[2018.11.27-12.58.56:531][192]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b37e3c7400, Size=768, Default__TwinStickPawn_C Function /Game/Blueprints/Player/TwinStickPawn.TwinStickPawn_C:ExecuteUbergraph_TwinStickPawn
+[2018.11.27-12.58.58:414][374]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.27-12.58.58:445][374]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-12.58.58:445][374]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-12.58.58:445][374]PIE: New page: PIE session: Level_01 (27 Nov 2018 12:58:58)
+[2018.11.27-12.58.58:445][374]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_01
+[2018.11.27-12.58.58:450][374]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004347s)
+[2018.11.27-12.58.58:450][374]LogAIModule: Creating AISystem for world Level_01
+[2018.11.27-12.58.58:450][374]LogPlayLevel: PIE: World Init took: (0.000563s)
+[2018.11.27-12.58.58:450][374]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01.Level_01 to /Game/Maps/UEDPIE_0_Level_01.Level_01 (0.005026s)
+[2018.11.27-12.58.58:466][374]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b37ad2b700, Size=768
+[2018.11.27-12.58.58:472][374]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-12.58.58:494][374]LogInit: FAudioDevice initialized.
+[2018.11.27-12.58.58:527][374]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.27-12.58.58:529][374]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2018.11.27-12.58.58
+[2018.11.27-12.58.58:529][374]LogWorld: Bringing up level for play took: 0.001123
+[2018.11.27-12.58.58:530][374]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_01 -0.381
+[2018.11.27-12.58.58:530][374]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-12.59.01:798][761]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-12.59.01:836][761]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-12.59.02:796][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-12.59.24:854][402]BlueprintLog: New page: Compile TwinStickPawn
+[2018.11.27-12.59.24:890][402]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b37e3c7400, Size=768
+[2018.11.27-12.59.24:890][402]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3d1d68d00, Size=768, Default__TwinStickPawn_C Function /Engine/Transient.REINST_TwinStickPawn_C_101:ExecuteUbergraph_TwinStickPawn
+[2018.11.27-12.59.24:896][402]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b347eef400, Size=768, Default__TwinStickPawn_C Function /Game/Blueprints/Player/TwinStickPawn.TwinStickPawn_C:ExecuteUbergraph_TwinStickPawn
+[2018.11.27-12.59.26:478][550]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.27-12.59.26:505][550]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-12.59.26:506][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-12.59.26:506][550]PIE: New page: PIE session: Level_01 (27 Nov 2018 12:59:26)
+[2018.11.27-12.59.26:506][550]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_01
+[2018.11.27-12.59.26:510][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004385s)
+[2018.11.27-12.59.26:511][550]LogAIModule: Creating AISystem for world Level_01
+[2018.11.27-12.59.26:511][550]LogPlayLevel: PIE: World Init took: (0.000588s)
+[2018.11.27-12.59.26:511][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01.Level_01 to /Game/Maps/UEDPIE_0_Level_01.Level_01 (0.005092s)
+[2018.11.27-12.59.26:527][550]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3d1d68d00, Size=768
+[2018.11.27-12.59.26:533][550]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-12.59.26:554][550]LogInit: FAudioDevice initialized.
+[2018.11.27-12.59.26:584][550]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.27-12.59.26:586][550]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2018.11.27-12.59.26
+[2018.11.27-12.59.26:586][550]LogWorld: Bringing up level for play took: 0.001091
+[2018.11.27-12.59.26:587][550]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_01 -0.323
+[2018.11.27-12.59.26:587][550]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-12.59.31:096][ 86]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-12.59.31:134][ 86]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-12.59.56:070][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.27-12.59.56:112][ 64]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b379a50fe0, Size=16
+[2018.11.27-12.59.56:112][ 64]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3c0297870, Size=16, Default__Level_01_C Function /Engine/Transient.REINST_Level_01_C_105:ExecuteUbergraph_Level_01
+[2018.11.27-12.59.56:113][ 64]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3c0297450, Size=16, Default__Level_01_C Function /Game/Maps/Level_01.Level_01_C:ExecuteUbergraph_Level_01
+[2018.11.27-12.59.56:230][ 64]LogSavePackage: Save=121.10ms
+[2018.11.27-12.59.56:230][ 64]LogSavePackage: Moving 'D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Saved/Level_01_Auto2FB578CA440606D5CEAD0239B12AFCB1E.tmp' to 'D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Saved/Autosaves/Game/Maps/Level_01_Auto2.umap'
+[2018.11.27-12.59.56:233][ 64]LogSavePackage: Display: Finished SavePackage D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Saved/Autosaves/Game/Maps/Level_01_Auto2.umap
+[2018.11.27-12.59.56:235][ 64]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_01' took 0.152
+[2018.11.27-12.59.56:235][ 64]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.152
+[2018.11.27-12.59.56:237][ 64]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Player/TwinStickPawn] ([1] browsable assets)...
+[2018.11.27-12.59.56:251][ 64]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player/TwinStickPawn.TwinStickPawn]
+[2018.11.27-12.59.56:251][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/TwinStickPawn]
+[2018.11.27-12.59.56:330][ 64]LogSavePackage: Save=63.29ms
+[2018.11.27-12.59.56:330][ 64]LogSavePackage: Moving 'D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Saved/TwinStickPawn_Auto23F1E49044A82DEE4B45F5983084CC96D.tmp' to 'D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Saved/Autosaves/Game/Blueprints/Player/TwinStickPawn_Auto2.uasset'
+[2018.11.27-12.59.56:332][ 64]LogSavePackage: Display: Finished SavePackage D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Saved/Autosaves/Game/Blueprints/Player/TwinStickPawn_Auto2.uasset
+[2018.11.27-12.59.56:333][ 64]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_Shotgun] ([1] browsable assets)...
+[2018.11.27-12.59.56:333][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_Shotgun]
+[2018.11.27-12.59.56:340][ 64]LogSavePackage: Save=5.33ms
+[2018.11.27-12.59.56:340][ 64]LogSavePackage: Moving 'D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Saved/BP_Shotgun_Auto24E00639D4DFF3676D771CDBC4957A86C.tmp' to 'D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Saved/Autosaves/Game/Blueprints/Player/BP_Shotgun_Auto2.uasset'
+[2018.11.27-12.59.56:341][ 64]LogSavePackage: Display: Finished SavePackage D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Saved/Autosaves/Game/Blueprints/Player/BP_Shotgun_Auto2.uasset
+[2018.11.27-12.59.56:342][ 64]LogFileHelpers: Auto-saving content packages took 0.105
+[2018.11.27-13.00.13:071][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.11.27-13.00.38:277][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-13.00.38:375][ 48]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.27-13.00.38:394][ 48]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.00.38:395][ 48]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-13.00.38:395][ 48]PIE: New page: PIE session: Level_01 (27 Nov 2018 13:00:38)
+[2018.11.27-13.00.38:395][ 48]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_01
+[2018.11.27-13.00.38:399][ 48]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004313s)
+[2018.11.27-13.00.38:400][ 48]LogAIModule: Creating AISystem for world Level_01
+[2018.11.27-13.00.38:400][ 48]LogPlayLevel: PIE: World Init took: (0.000762s)
+[2018.11.27-13.00.38:400][ 48]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01.Level_01 to /Game/Maps/UEDPIE_0_Level_01.Level_01 (0.005186s)
+[2018.11.27-13.00.38:415][ 48]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3c0297870, Size=16
+[2018.11.27-13.00.38:421][ 48]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-13.00.38:443][ 48]LogInit: FAudioDevice initialized.
+[2018.11.27-13.00.38:471][ 48]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.27-13.00.38:473][ 48]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2018.11.27-13.00.38
+[2018.11.27-13.00.38:473][ 48]LogWorld: Bringing up level for play took: 0.001091
+[2018.11.27-13.00.38:474][ 48]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_01 -0.436
+[2018.11.27-13.00.38:474][ 48]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.00.44:534][771]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.00.44:570][771]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.07.50:880][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-13.07.50:980][894]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.27-13.07.51:002][894]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.07.51:003][894]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-13.07.51:003][894]PIE: New page: PIE session: Level_01 (27 Nov 2018 13:07:51)
+[2018.11.27-13.07.51:003][894]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_01
+[2018.11.27-13.07.51:008][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005023s)
+[2018.11.27-13.07.51:009][894]LogAIModule: Creating AISystem for world Level_01
+[2018.11.27-13.07.51:009][894]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2018.11.27-13.07.51:009][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01.Level_01 to /Game/Maps/UEDPIE_0_Level_01.Level_01 (0.005986s)
+[2018.11.27-13.07.51:033][894]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-13.07.51:057][894]LogInit: FAudioDevice initialized.
+[2018.11.27-13.07.51:087][894]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.27-13.07.51:089][894]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2018.11.27-13.07.51
+[2018.11.27-13.07.51:089][894]LogWorld: Bringing up level for play took: 0.001145
+[2018.11.27-13.07.51:090][894]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_01 0.181
+[2018.11.27-13.07.51:091][894]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.08.12:893][501]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.08.12:932][501]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.09.09:527][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-13.09.09:618][292]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.27-13.09.09:642][292]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.09.09:642][292]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-13.09.09:642][292]PIE: New page: PIE session: Level_01 (27 Nov 2018 13:09:09)
+[2018.11.27-13.09.09:642][292]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_01
+[2018.11.27-13.09.09:646][292]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004277s)
+[2018.11.27-13.09.09:647][292]LogAIModule: Creating AISystem for world Level_01
+[2018.11.27-13.09.09:647][292]LogPlayLevel: PIE: World Init took: (0.000632s)
+[2018.11.27-13.09.09:647][292]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01.Level_01 to /Game/Maps/UEDPIE_0_Level_01.Level_01 (0.005032s)
+[2018.11.27-13.09.09:671][292]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-13.09.09:694][292]LogInit: FAudioDevice initialized.
+[2018.11.27-13.09.09:726][292]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.27-13.09.09:727][292]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2018.11.27-13.09.09
+[2018.11.27-13.09.09:728][292]LogWorld: Bringing up level for play took: 0.001102
+[2018.11.27-13.09.09:728][292]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_01 0.819
+[2018.11.27-13.09.09:729][292]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.09.19:635][475]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.09.19:671][475]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.14.33:232][ 21]LogEditorViewport: Clicking on Actor (LMB): BP_EnemySpawner_C (BP_EnemySpawner2)
+[2018.11.27-13.14.40:028][816]LogEditorViewport: Clicking on Actor (LMB): BP_EnemySpawner_C (BP_EnemySpawner)
+[2018.11.27-13.14.44:385][320]Cmd: EDIT COPY
+[2018.11.27-13.14.44:566][339]Cmd: EDIT PASTE
+[2018.11.27-13.14.48:251][770]Cmd: EDIT COPY
+[2018.11.27-13.14.48:469][794]Cmd: EDIT PASTE
+[2018.11.27-13.14.53:166][343]Cmd: EDIT COPY
+[2018.11.27-13.14.53:339][361]Cmd: EDIT PASTE
+[2018.11.27-13.14.56:515][731]LogEditorViewport: Clicking on Actor (LMB): BP_EnemySpawner_C (BP_EnemySpawner2)
+[2018.11.27-13.14.56:902][772]Cmd: DELETE
+[2018.11.27-13.14.56:902][772]Cmd: ACTOR DELETE
+[2018.11.27-13.14.56:905][772]LogEditorActor: Deleted Actor: BP_EnemySpawner_C
+[2018.11.27-13.14.56:923][772]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2018.11.27-13.14.57:952][894]LogEditorViewport: Clicking on Actor (LMB): TwinStickPawn_C (TwinStickPawn)
+[2018.11.27-13.14.59:982][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-13.15.00:059][117]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.27-13.15.00:081][117]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.15.00:081][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-13.15.00:081][117]PIE: New page: PIE session: Level_01 (27 Nov 2018 13:15:00)
+[2018.11.27-13.15.00:081][117]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_01
+[2018.11.27-13.15.00:086][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004706s)
+[2018.11.27-13.15.00:086][117]LogAIModule: Creating AISystem for world Level_01
+[2018.11.27-13.15.00:087][117]LogPlayLevel: PIE: World Init took: (0.000676s)
+[2018.11.27-13.15.00:087][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01.Level_01 to /Game/Maps/UEDPIE_0_Level_01.Level_01 (0.005500s)
+[2018.11.27-13.15.00:145][117]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-13.15.00:179][117]LogInit: FAudioDevice initialized.
+[2018.11.27-13.15.00:210][117]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.27-13.15.00:213][117]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2018.11.27-13.15.00
+[2018.11.27-13.15.00:213][117]LogWorld: Bringing up level for play took: 0.001926
+[2018.11.27-13.15.00:215][117]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_01 -0.693
+[2018.11.27-13.15.00:215][117]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.15.19:932][477]LogCharacterMovement: BP_Enemy_AI_C_24 is stuck and failed to move! Velocity: X=140.96 Y=67.32 Z=0.00 Location: X=53.44 Y=-582.12 Z=240.15 Normal: X=-0.86 Y=-0.51 Z=0.00 PenetrationDepth:0.000 Actor:BP_Enemy_AI_C_23 Component:Cube BoneName:None (0 other events since notify)
+[2018.11.27-13.15.20:557][552]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.15.20:590][552]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.15.49:532][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.27-13.15.49:570][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3c0297450, Size=16
+[2018.11.27-13.15.49:570][ 13]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3c6c71280, Size=16, Default__Level_01_C Function /Engine/Transient.REINST_Level_01_C_109:ExecuteUbergraph_Level_01
+[2018.11.27-13.15.49:571][ 13]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3c6c736c0, Size=16, Default__Level_01_C Function /Game/Maps/Level_01.Level_01_C:ExecuteUbergraph_Level_01
+[2018.11.27-13.15.49:689][ 13]LogSavePackage: Save=121.95ms
+[2018.11.27-13.15.49:689][ 13]LogSavePackage: Moving 'D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Saved/Level_01_Auto3DDF9D9BB471A7B470907BEB6F3ED8A6B.tmp' to 'D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Saved/Autosaves/Game/Maps/Level_01_Auto3.umap'
+[2018.11.27-13.15.49:690][ 13]LogSavePackage: Display: Finished SavePackage D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Saved/Autosaves/Game/Maps/Level_01_Auto3.umap
+[2018.11.27-13.15.49:693][ 13]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_01' took 0.149
+[2018.11.27-13.15.49:693][ 13]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.149
+[2018.11.27-13.19.33:547][861]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.27-13.19.33:571][861]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.19.33:572][861]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-13.19.33:572][861]PIE: New page: PIE session: Level_01 (27 Nov 2018 13:19:33)
+[2018.11.27-13.19.33:572][861]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_01
+[2018.11.27-13.19.33:577][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004904s)
+[2018.11.27-13.19.33:577][861]LogAIModule: Creating AISystem for world Level_01
+[2018.11.27-13.19.33:578][861]LogPlayLevel: PIE: World Init took: (0.000747s)
+[2018.11.27-13.19.33:578][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01.Level_01 to /Game/Maps/UEDPIE_0_Level_01.Level_01 (0.005772s)
+[2018.11.27-13.19.33:594][861]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3c6c71280, Size=16
+[2018.11.27-13.19.33:599][861]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-13.19.33:622][861]LogInit: FAudioDevice initialized.
+[2018.11.27-13.19.33:658][861]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.27-13.19.33:662][861]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2018.11.27-13.19.33
+[2018.11.27-13.19.33:662][861]LogWorld: Bringing up level for play took: 0.002723
+[2018.11.27-13.19.33:664][861]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_01 0.759
+[2018.11.27-13.19.33:665][861]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.19.38:562][442]LogCharacterMovement: BP_Enemy_AI_C_2 is stuck and failed to move! Velocity: X=83.69 Y=594.13 Z=0.00 Location: X=-89.77 Y=6.53 Z=240.15 Normal: X=0.68 Y=-0.74 Z=0.00 PenetrationDepth:0.000 Actor:BP_Enemy_AI_C_5 Component:Cube BoneName:None (0 other events since notify)
+[2018.11.27-13.19.43:560][ 41]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.19.43:598][ 41]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.22.29:282][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-13.22.29:640][898]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.27-13.22.29:665][898]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.22.29:666][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-13.22.29:666][898]PIE: New page: PIE session: Level_01 (27 Nov 2018 13:22:29)
+[2018.11.27-13.22.29:666][898]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_01
+[2018.11.27-13.22.29:670][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004649s)
+[2018.11.27-13.22.29:671][898]LogAIModule: Creating AISystem for world Level_01
+[2018.11.27-13.22.29:671][898]LogPlayLevel: PIE: World Init took: (0.000592s)
+[2018.11.27-13.22.29:671][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01.Level_01 to /Game/Maps/UEDPIE_0_Level_01.Level_01 (0.005354s)
+[2018.11.27-13.22.29:707][898]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-13.22.29:737][898]LogInit: FAudioDevice initialized.
+[2018.11.27-13.22.29:768][898]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.27-13.22.29:770][898]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2018.11.27-13.22.29
+[2018.11.27-13.22.29:770][898]LogWorld: Bringing up level for play took: 0.001145
+[2018.11.27-13.22.29:771][898]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_01 0.866
+[2018.11.27-13.22.29:771][898]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.22.33:656][348]LogCharacterMovement: BP_Enemy_AI_C_2 is stuck and failed to move! Velocity: X=5.44 Y=16.18 Z=0.00 Location: X=209.23 Y=-113.13 Z=240.15 Normal: X=0.23 Y=-0.97 Z=0.00 PenetrationDepth:0.000 Actor:BP_Enemy_AI_C_0 Component:Cube BoneName:None (0 other events since notify)
+[2018.11.27-13.22.35:807][606]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.22.35:840][606]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.23.34:137][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-13.23.34:220][601]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.27-13.23.34:244][601]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.23.34:244][601]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-13.23.34:244][601]PIE: New page: PIE session: Level_01 (27 Nov 2018 13:23:34)
+[2018.11.27-13.23.34:244][601]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_01
+[2018.11.27-13.23.34:249][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004528s)
+[2018.11.27-13.23.34:249][601]LogAIModule: Creating AISystem for world Level_01
+[2018.11.27-13.23.34:249][601]LogPlayLevel: PIE: World Init took: (0.000655s)
+[2018.11.27-13.23.34:249][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01.Level_01 to /Game/Maps/UEDPIE_0_Level_01.Level_01 (0.005296s)
+[2018.11.27-13.23.34:272][601]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-13.23.34:297][601]LogInit: FAudioDevice initialized.
+[2018.11.27-13.23.34:330][601]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.27-13.23.34:332][601]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2018.11.27-13.23.34
+[2018.11.27-13.23.34:332][601]LogWorld: Bringing up level for play took: 0.001121
+[2018.11.27-13.23.34:333][601]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_01 -0.572
+[2018.11.27-13.23.34:333][601]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.23.43:744][723]LogCharacterMovement: BP_Enemy_AI_C_7 is stuck and failed to move! Velocity: X=373.89 Y=-397.05 Z=0.00 Location: X=-628.69 Y=-882.21 Z=240.15 Normal: X=-0.47 Y=0.88 Z=0.00 PenetrationDepth:0.000 Actor:BP_Enemy_AI_C_5 Component:Cube BoneName:None (0 other events since notify)
+[2018.11.27-13.23.44:743][843]LogCharacterMovement: BP_Enemy_AI_C_10 is stuck and failed to move! Velocity: X=16.52 Y=-4.29 Z=0.00 Location: X=-168.16 Y=-874.02 Z=240.15 Normal: X=-0.05 Y=1.00 Z=-0.00 PenetrationDepth:13.705 Actor:BP_Enemy_AI_C_7 Component:Cube BoneName:None (0 other events since notify)
+[2018.11.27-13.23.46:236][ 22]LogCharacterMovement: BP_Enemy_AI_C_10 is stuck and failed to move! Velocity: X=16.52 Y=-4.29 Z=0.00 Location: X=-168.16 Y=-874.02 Z=240.15 Normal: X=-0.18 Y=0.98 Z=-0.00 PenetrationDepth:11.851 Actor:BP_Enemy_AI_C_7 Component:Cube BoneName:None (113 other events since notify)
+[2018.11.27-13.23.47:236][142]LogCharacterMovement: BP_Enemy_AI_C_10 is stuck and failed to move! Velocity: X=115.64 Y=-30.00 Z=0.00 Location: X=-168.16 Y=-874.02 Z=240.15 Normal: X=0.37 Y=0.93 Z=0.00 PenetrationDepth:15.363 Actor:BP_Enemy_AI_C_7 Component:Cube BoneName:None (111 other events since notify)
+[2018.11.27-13.23.47:745][203]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.23.47:780][203]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.24.00:852][725]LogEditorViewport: Clicking on Actor (LMB): BP_EnemySpawner_C (BP_EnemySpawner)
+[2018.11.27-13.24.04:229][108]LogEditorViewport: Clicking on Actor (LMB): BP_EnemySpawner_C (BP_EnemySpawner3)
+[2018.11.27-13.24.08:142][448]LogEditorViewport: Clicking on Actor (LMB): BP_EnemySpawner_C (BP_EnemySpawner5)
+[2018.11.27-13.24.12:786][906]LogEditorViewport: Clicking on Actor (LMB): BP_EnemySpawner_C (BP_EnemySpawner4)
+[2018.11.27-13.24.15:301][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-13.24.15:394][194]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.27-13.24.15:417][194]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.24.15:417][194]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-13.24.15:417][194]PIE: New page: PIE session: Level_01 (27 Nov 2018 13:24:15)
+[2018.11.27-13.24.15:417][194]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_01
+[2018.11.27-13.24.15:422][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004803s)
+[2018.11.27-13.24.15:423][194]LogAIModule: Creating AISystem for world Level_01
+[2018.11.27-13.24.15:423][194]LogPlayLevel: PIE: World Init took: (0.000991s)
+[2018.11.27-13.24.15:423][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01.Level_01 to /Game/Maps/UEDPIE_0_Level_01.Level_01 (0.005950s)
+[2018.11.27-13.24.15:444][194]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-13.24.15:466][194]LogInit: FAudioDevice initialized.
+[2018.11.27-13.24.15:502][194]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.27-13.24.15:504][194]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2018.11.27-13.24.15
+[2018.11.27-13.24.15:505][194]LogWorld: Bringing up level for play took: 0.001880
+[2018.11.27-13.24.15:506][194]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_01 0.602
+[2018.11.27-13.24.15:506][194]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.24.21:916][943]LogCharacterMovement: BP_Enemy_AI_C_4 is stuck and failed to move! Velocity: X=484.79 Y=-146.91 Z=0.00 Location: X=350.05 Y=-503.74 Z=240.15 Normal: X=-0.88 Y=-0.47 Z=0.00 PenetrationDepth:0.000 Actor:BP_Enemy_AI_C_2 Component:Cube BoneName:None (0 other events since notify)
+[2018.11.27-13.24.21:925][944]LogCharacterMovement: BP_Enemy_AI_C_2 is stuck and failed to move! Velocity: X=171.30 Y=-459.78 Z=0.00 Location: X=417.34 Y=-427.40 Z=240.15 Normal: X=0.67 Y=0.74 Z=0.00 PenetrationDepth:1.066 Actor:BP_Enemy_AI_C_4 Component:Cube BoneName:None (0 other events since notify)
+[2018.11.27-13.24.27:981][670]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.24.28:017][670]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.26.31:830][517]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.27-13.26.31:868][517]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3c6c736c0, Size=16
+[2018.11.27-13.26.31:868][517]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3d0562f70, Size=16, Default__Level_01_C Function /Engine/Transient.REINST_Level_01_C_113:ExecuteUbergraph_Level_01
+[2018.11.27-13.26.31:869][517]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3d0561aa0, Size=16, Default__Level_01_C Function /Game/Maps/Level_01.Level_01_C:ExecuteUbergraph_Level_01
+[2018.11.27-13.26.31:987][517]LogSavePackage: Save=121.94ms
+[2018.11.27-13.26.31:987][517]LogSavePackage: Moving 'D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Saved/Level_01_Auto41A5661AA4D728CC5E58EDB927C21D499.tmp' to 'D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Saved/Autosaves/Game/Maps/Level_01_Auto4.umap'
+[2018.11.27-13.26.31:988][517]LogSavePackage: Display: Finished SavePackage D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Saved/Autosaves/Game/Maps/Level_01_Auto4.umap
+[2018.11.27-13.26.31:990][517]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_01' took 0.148
+[2018.11.27-13.26.31:990][517]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.148
+[2018.11.27-13.30.06:914][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_01" FILE="D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Content/Maps/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.27-13.30.06:949][280]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3d0561aa0, Size=16
+[2018.11.27-13.30.06:949][280]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3c6acdb00, Size=16, Level_01_C_0 Function /Engine/Transient.REINST_Level_01_C_117:ExecuteUbergraph_Level_01
+[2018.11.27-13.30.06:950][280]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b3c6acd5c0, Size=16, Default__Level_01_C Function /Game/Maps/Level_01.Level_01_C:ExecuteUbergraph_Level_01
+[2018.11.27-13.30.07:070][280]LogSavePackage: Save=123.46ms
+[2018.11.27-13.30.07:070][280]LogSavePackage: Moving 'D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Saved/Level_01347E62B54640FD85E3F6459A855EC9F9.tmp' to 'D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Content/Maps/Level_01.umap'
+[2018.11.27-13.30.07:073][280]LogSavePackage: Display: Finished SavePackage D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Content/Maps/Level_01.umap
+[2018.11.27-13.30.07:102][280]LogFileHelpers: Saving map 'Level_01' took 0.293
+[2018.11.27-13.30.07:105][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/TwinStickPawn" FILE="D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Content/Blueprints/Player/TwinStickPawn.uasset" SILENT=true
+[2018.11.27-13.30.07:177][280]LogSavePackage: Save=67.31ms
+[2018.11.27-13.30.07:177][280]LogSavePackage: Moving 'D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Saved/TwinStickPawn4A1F54064739AE61645EC795DBDD4A1F.tmp' to 'D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Content/Blueprints/Player/TwinStickPawn.uasset'
+[2018.11.27-13.30.07:180][280]LogSavePackage: Display: Finished SavePackage D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Content/Blueprints/Player/TwinStickPawn.uasset
+[2018.11.27-13.30.07:183][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_Shotgun" FILE="D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Content/Blueprints/Player/BP_Shotgun.uasset" SILENT=true
+[2018.11.27-13.30.07:191][280]LogSavePackage: Save=5.50ms
+[2018.11.27-13.30.07:191][280]LogSavePackage: Moving 'D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Saved/BP_Shotgun989DEA2544626E77BC682996A853E275.tmp' to 'D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Content/Blueprints/Player/BP_Shotgun.uasset'
+[2018.11.27-13.30.07:193][280]LogSavePackage: Display: Finished SavePackage D:/GameJam-TeamStruggle/MyProject-20181127T111243Z-001/MyProject/Content/Blueprints/Player/BP_Shotgun.uasset
+[2018.11.27-13.32.33:518][821]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.27-13.32.33:540][821]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.32.33:540][821]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-13.32.33:540][821]PIE: New page: PIE session: Level_01 (27 Nov 2018 13:32:33)
+[2018.11.27-13.32.33:540][821]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_01
+[2018.11.27-13.32.33:545][821]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004630s)
+[2018.11.27-13.32.33:546][821]LogAIModule: Creating AISystem for world Level_01
+[2018.11.27-13.32.33:546][821]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2018.11.27-13.32.33:546][821]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01.Level_01 to /Game/Maps/UEDPIE_0_Level_01.Level_01 (0.005525s)
+[2018.11.27-13.32.33:563][821]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3d0562f70, Size=16
+[2018.11.27-13.32.33:563][821]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b3c6acdb00, Size=16
+[2018.11.27-13.32.33:569][821]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-13.32.33:592][821]LogInit: FAudioDevice initialized.
+[2018.11.27-13.32.33:628][821]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.27-13.32.33:631][821]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2018.11.27-13.32.33
+[2018.11.27-13.32.33:631][821]LogWorld: Bringing up level for play took: 0.002242
+[2018.11.27-13.32.33:633][821]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_01 0.731
+[2018.11.27-13.32.33:633][821]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.32.37:441][270]LogCharacterMovement: BP_Enemy_AI_C_1 is stuck and failed to move! Velocity: X=10.45 Y=13.49 Z=0.00 Location: X=-272.55 Y=-93.70 Z=240.15 Normal: X=0.17 Y=0.99 Z=-0.00 PenetrationDepth:4.451 Actor:BP_Enemy_AI_C_2 Component:Cube BoneName:None (0 other events since notify)
+[2018.11.27-13.32.38:538][401]LogCharacterMovement: BP_Enemy_AI_C_4 is stuck and failed to move! Velocity: X=4.33 Y=16.51 Z=0.00 Location: X=-272.94 Y=-271.99 Z=240.15 Normal: X=0.17 Y=-0.99 Z=0.00 PenetrationDepth:0.000 Actor:BP_Enemy_AI_C_2 Component:Cube BoneName:None (0 other events since notify)
+[2018.11.27-13.32.38:538][401]LogCharacterMovement: BP_Enemy_AI_C_2 is stuck and failed to move! Velocity: X=4.24 Y=16.53 Z=0.00 Location: X=-245.49 Y=-179.57 Z=240.15 Normal: X=-0.14 Y=-0.99 Z=-0.00 PenetrationDepth:3.608 Actor:BP_Enemy_AI_C_1 Component:Cube BoneName:None (0 other events since notify)
+[2018.11.27-13.32.38:655][415]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'
+[2018.11.27-13.32.38:695][415]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_01.Level_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01' with GeneratedClass '/Game/Maps/Level_01.Level_01_C' with ClassGeneratedBy '/Game/Maps/Level_01.Level_01:PersistentLevel.Level_01'

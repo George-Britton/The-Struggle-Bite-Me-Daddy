@@ -1,0 +1,760 @@
+﻿Log file open, 11/29/18 17:32:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(2112194671) SRandInit(2112194671).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.402931
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.463s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am C-02487 (10.9.70.131:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.29-17.32.56:176][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.29-17.32.56:176][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.29-17.32.56:206][  0]LogInit: Computer: C-02487
+[2018.11.29-17.32.56:206][  0]LogInit: User: 1600747
+[2018.11.29-17.32.56:206][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.11.29-17.32.56:206][  0]LogInit: High frequency timer resolution =3.507502 MHz
+[2018.11.29-17.32.56:207][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.11.29-17.32.56:207][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.29-17.32.56:207][  0]LogMemory: Process Physical Memory: 277.59 MB used, 277.59 MB peak
+[2018.11.29-17.32.56:207][  0]LogMemory: Process Virtual Memory: 273.16 MB used, 273.16 MB peak
+[2018.11.29-17.32.56:207][  0]LogMemory: Physical Memory: 6448.67 MB used,  26241.05 MB free, 32689.72 MB total
+[2018.11.29-17.32.56:207][  0]LogMemory: Virtual Memory: 703.27 MB used,  26241.05 MB free, 134217728.00 MB total
+[2018.11.29-17.32.56:232][  0]LogInit: Using OS detected language (en-GB).
+[2018.11.29-17.32.56:232][  0]LogInit: Using OS detected locale (en-GB).
+[2018.11.29-17.32.56:239][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.11.29-17.32.56:611][  0]LogStreaming: Display: Took  0.378s to EndInitTextLocalization.
+[2018.11.29-17.32.56:611][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.29-17.32.56:654][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.29-17.32.56:654][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.29-17.32.57:044][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.29-17.32.57:113][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.11.29-17.32.57:113][  0]LogD3D11RHI:       8086/0/16344 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.29-17.32.57:115][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.29-17.32.57:115][  0]LogD3D11RHI:       0/0/16344 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.29-17.32.57:115][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.29-17.32.57:130][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.29-17.32.57:130][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.29-17.32.57:130][  0]LogWindows: EnumDisplayDevices:
+[2018.11.29-17.32.57:131][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.11.29-17.32.57:131][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.11.29-17.32.57:131][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.11.29-17.32.57:131][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.11.29-17.32.57:131][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.11.29-17.32.57:132][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.11.29-17.32.57:132][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.11.29-17.32.57:132][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.11.29-17.32.57:132][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
+[2018.11.29-17.32.57:162][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.11.29-17.32.57:162][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.11.29-17.32.57:162][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.29-17.32.57:174][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.11.29-17.32.57:217][  0]LogShaderCompilers: Guid format shader working directory is -65 characters bigger than the processId version (D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Intermediate/Shaders/WorkingDirectory/15072/).
+[2018.11.29-17.32.57:217][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/1600747/AppData/Local/Temp/UnrealShaderWorkingDir/94A3A9554FB41B6EA4080E81B79EBEEC/'.
+[2018.11.29-17.32.57:591][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.29-17.32.57:616][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.29-17.32.57:632][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.29-17.32.57:647][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.29-17.32.57:662][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.29-17.32.57:676][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.29-17.32.57:690][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.29-17.32.57:704][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.29-17.32.57:711][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.29-17.32.57:724][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.11.29-17.32.57:737][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.11.29-17.32.57:750][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.11.29-17.32.57:763][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.11.29-17.32.57:776][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.11.29-17.32.57:789][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.11.29-17.32.57:815][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.11.29-17.32.57:815][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.11.29-17.32.57:829][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.29-17.32.57:831][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.29-17.32.57:869][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.29-17.32.57:881][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.29-17.32.57:894][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.29-17.32.57:907][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.29-17.32.57:931][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.29-17.32.57:950][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.29-17.32.57:950][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.29-17.32.58:122][  0]LogXGEController: Cleaning working directory: C:/Users/1600747/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.29-17.32.58:122][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.29-17.32.58:122][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.29-17.32.58:122][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.29-17.32.58:990][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.29-17.32.59:064][  0]LogDerivedDataCache: Loaded boot cache 0.07s 74MB C:/Users/1600747/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.11.29-17.32.59:064][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/1600747/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.11.29-17.32.59:064][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.29-17.32.59:064][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.29-17.32.59:064][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.29-17.32.59:064][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.29-17.32.59:079][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.29-17.32.59:093][  0]LogDerivedDataCache: Using Local data cache path C:/Users/1600747/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.29-17.32.59:093][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.29-17.32.59:093][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.29-17.32.59:103][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.29-17.32.59:103][  0]LogSlate: Using Freetype 2.6.0
+[2018.11.29-17.32.59:105][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.29-17.32.59:105][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.29-17.32.59:314][  0]LogAssetRegistry: FAssetRegistry took 0.0270 seconds to start up
+[2018.11.29-17.32.59:697][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.29-17.32.59:866][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.29-17.32.59:869][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.29-17.32.59:869][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.29-17.32.59:869][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.29-17.32.59:869][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.11.29-17.32.59:869][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.11.29-17.32.59:912][  0]LogNetVersion: MyProject , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2475486345)
+[2018.11.29-17.33.00:451][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.094201 seconds
+[2018.11.29-17.33.00:456][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.11.29-17.33.00:456][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.11.29-17.33.00:456][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.29-17.33.02:493][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.29-17.33.02:534][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.29-17.33.03:082][  0]SourceControl: Source control is disabled
+[2018.11.29-17.33.03:082][  0]SourceControl: Source control is disabled
+[2018.11.29-17.33.03:127][  0]SourceControl: Source control is disabled
+[2018.11.29-17.33.03:159][  0]SourceControl: Source control is disabled
+[2018.11.29-17.33.04:080][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.29-17.33.04:360][  0]LogOcInput: OculusInput pre-init called
+[2018.11.29-17.33.04:557][  0]LogEngine: Initializing Engine...
+[2018.11.29-17.33.04:559][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.29-17.33.04:561][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.29-17.33.04:561][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.29-17.33.04:850][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.29-17.33.04:873][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.29-17.33.05:086][  0]LogInit: FAudioDevice initialized.
+[2018.11.29-17.33.05:214][  0]LogDerivedDataCache: Saved boot cache 0.13s 74MB C:/Users/1600747/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.11.29-17.33.05:227][  0]LogInit: Texture streaming: Enabled
+[2018.11.29-17.33.05:247][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.29-17.33.05:265][  0]LogInit: Transaction tracking system initialized
+[2018.11.29-17.33.05:289][  0]BlueprintLog: New page: Editor Load
+[2018.11.29-17.33.05:393][  0]LocalizationService: Localization service is disabled
+[2018.11.29-17.33.05:563][  0]LogConsoleResponse: Display: 
+[2018.11.29-17.33.05:761][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.29-17.33.05:761][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.29-17.33.05:761][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.29-17.33.05:761][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.29-17.33.05:761][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.29-17.33.06:474][  0]LogFileCache: Scanning file cache for directory 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/' took 0.02s
+[2018.11.29-17.33.06:474][  0]SourceControl: Source control is disabled
+[2018.11.29-17.33.06:502][  0]LogSlate: Took 0.000310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.29-17.33.06:524][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.29-17.33.09:366][  0]LogSlate: Window 'Message' being destroyed
+[2018.11.29-17.33.09:367][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.29-17.33.09:369][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.29-17.33.09:370][  0]LightingResults: New page: Lighting Build
+[2018.11.29-17.33.09:374][  0]MapCheck: New page: Map Check
+[2018.11.29-17.33.09:374][  0]LightingResults: New page: Lighting Build
+[2018.11.29-17.33.09:382][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.29-17.33.09:384][  0]LoadErrors: New page: New Map
+[2018.11.29-17.33.09:538][  0]LogCollectionManager: Loaded 0 collections in 0.003624 seconds
+[2018.11.29-17.33.09:587][  0]LogFileCache: Scanning file cache for directory 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Saved/Collections/' took 0.01s
+[2018.11.29-17.33.09:587][  0]LogFileCache: Scanning file cache for directory 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Developers/1600747/Collections/' took 0.01s
+[2018.11.29-17.33.09:587][  0]LogFileCache: Scanning file cache for directory 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Collections/' took 0.01s
+[2018.11.29-17.33.09:587][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.11.29-17.33.09:608][  0]LogContentBrowser: Native class hierarchy populated in 0.0211 seconds. Added 2452 classes and 558 folders.
+[2018.11.29-17.33.09:622][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.11.29-17.33.09:716][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.29-17.33.09:723][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.29-17.33.09:745][  0]LogSlate: Took 0.000690 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.29-17.33.09:757][  0]LogSlate: Took 0.000670 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.29-17.33.09:871][  0]LogRenderer: Reallocating scene render targets to support 1584x808 Format 10 NumSamples 1 (Frame:1).
+[2018.11.29-17.33.10:046][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.11.29-17.33.10:046][  0]LogLoad: (Engine Initialization) Total time: 17.32 seconds
+[2018.11.29-17.33.10:046][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.29-17.33.10:089][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.29-17.33.10:128][  1]LogAssetRegistry: Asset discovery search completed in 10.8359 seconds
+[2018.11.29-17.33.10:130][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.11.29-17.33.10:130][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000096 seconds (updated 0 objects)
+[2018.11.29-17.33.11:074][109]LogSlate: Took 0.000315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.29-17.33.14:608][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-17.33.14:692][539]AssetReimport: New page: Outstanding source content changes 17:33:14
+[2018.11.29-17.33.15:119][590]LogFileCache: Retrieving MD5 hashes for directory 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/' took 5.05s
+[2018.11.29-17.33.16:210][716]LogUObjectGlobals: Created PersistentFrame Addr=0x0000012459c46e80, Size=784, Default__TwinStickPawn_C Function /Game/Blueprints/Player/TwinStickPawn.TwinStickPawn_C:ExecuteUbergraph_TwinStickPawn
+[2018.11.29-17.33.16:212][716]LogUObjectGlobals: Created PersistentFrame Addr=0x0000012426fd3a00, Size=656, Default__TwinStickProjectile_C Function /Game/Blueprints/Player/TwinStickProjectile.TwinStickProjectile_C:ExecuteUbergraph_TwinStickProjectile
+[2018.11.29-17.33.16:213][716]LogUObjectGlobals: Created PersistentFrame Addr=0x000001247ade3d80, Size=616, Default__BP_Bona_Lisa_C Function /Game/Blueprints/Enemy/BP_Bona_Lisa.BP_Bona_Lisa_C:ExecuteUbergraph_BP_Bona_Lisa
+[2018.11.29-17.33.16:239][716]LogUObjectGlobals: Created PersistentFrame Addr=0x000001245b5591c0, Size=304, Default__BP_Enemy_AI_C Function /Game/Blueprints/Enemy/BP_Enemy_AI.BP_Enemy_AI_C:ExecuteUbergraph_BP_Enemy_AI
+[2018.11.29-17.33.16:257][716]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000012426fd3a00, Size=656
+[2018.11.29-17.33.16:257][716]LogUObjectGlobals: Created PersistentFrame Addr=0x000001242c03d600, Size=656, Default__TwinStickProjectile_C Function /Engine/Transient.REINST_TwinStickProjectile_C_5:ExecuteUbergraph_TwinStickProjectile
+[2018.11.29-17.33.16:258][716]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000012459c46e80, Size=784
+[2018.11.29-17.33.16:258][716]LogUObjectGlobals: Created PersistentFrame Addr=0x000001242c042400, Size=784, Default__TwinStickPawn_C Function /Engine/Transient.REINST_TwinStickPawn_C_6:ExecuteUbergraph_TwinStickPawn
+[2018.11.29-17.33.16:258][716]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001247ade3d80, Size=616
+[2018.11.29-17.33.16:258][716]LogUObjectGlobals: Created PersistentFrame Addr=0x000001242c02f600, Size=616, Default__BP_Bona_Lisa_C Function /Engine/Transient.REINST_BP_Bona_Lisa_C_7:ExecuteUbergraph_BP_Bona_Lisa
+[2018.11.29-17.33.16:259][716]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001245b5591c0, Size=304
+[2018.11.29-17.33.16:259][716]LogUObjectGlobals: Created PersistentFrame Addr=0x000001242c04b600, Size=304, Default__BP_Enemy_AI_C Function /Engine/Transient.REINST_BP_Enemy_AI_C_8:ExecuteUbergraph_BP_Enemy_AI
+[2018.11.29-17.33.16:274][716]LogUObjectGlobals: Created PersistentFrame Addr=0x000001242bf38400, Size=656, Default__TwinStickProjectile_C Function /Game/Blueprints/Player/TwinStickProjectile.TwinStickProjectile_C:ExecuteUbergraph_TwinStickProjectile
+[2018.11.29-17.33.16:277][716]LogUObjectGlobals: Created PersistentFrame Addr=0x000001242bdffc80, Size=784, Default__TwinStickPawn_C Function /Game/Blueprints/Player/TwinStickPawn.TwinStickPawn_C:ExecuteUbergraph_TwinStickPawn
+[2018.11.29-17.33.16:279][716]LogUObjectGlobals: Created PersistentFrame Addr=0x000001242beb1d00, Size=616, Default__BP_Bona_Lisa_C Function /Game/Blueprints/Enemy/BP_Bona_Lisa.BP_Bona_Lisa_C:ExecuteUbergraph_BP_Bona_Lisa
+[2018.11.29-17.33.16:280][716]LogUObjectGlobals: Created PersistentFrame Addr=0x000001242be9b4c0, Size=304, Default__BP_Enemy_AI_C Function /Game/Blueprints/Enemy/BP_Enemy_AI.BP_Enemy_AI_C:ExecuteUbergraph_BP_Enemy_AI
+[2018.11.29-17.33.16:295][716]LogUObjectGlobals: Created PersistentFrame Addr=0x000001242beb6600, Size=472, Default__BP_Bon_Jovi_C Function /Game/Blueprints/Enemy/BP_Bon_Jovi.BP_Bon_Jovi_C:ExecuteUbergraph_BP_Bon_Jovi
+[2018.11.29-17.33.16:299][716]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001242beb6600, Size=472
+[2018.11.29-17.33.16:299][716]LogUObjectGlobals: Created PersistentFrame Addr=0x000001242bddb800, Size=472, Default__BP_Bon_Jovi_C Function /Engine/Transient.REINST_BP_Bon_Jovi_C_13:ExecuteUbergraph_BP_Bon_Jovi
+[2018.11.29-17.33.16:303][716]LogUObjectGlobals: Created PersistentFrame Addr=0x000001242bdd9600, Size=472, Default__BP_Bon_Jovi_C Function /Game/Blueprints/Enemy/BP_Bon_Jovi.BP_Bon_Jovi_C:ExecuteUbergraph_BP_Bon_Jovi
+[2018.11.29-17.33.16:682][716]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.11.29-17.33.16:929][716]LogUObjectGlobals: Created PersistentFrame Addr=0x0000012433dbc320, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.11.29-17.33.16:930][716]LogUObjectGlobals: Created PersistentFrame Addr=0x0000012433dbc318, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.11.29-17.33.17:297][716]LogUObjectGlobals: Created PersistentFrame Addr=0x0000012442ad1bc0, Size=136, Default__BP_EnemySpawner_C Function /Game/Blueprints/Enemy/BP_EnemySpawner.BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner
+[2018.11.29-17.33.17:300][716]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000012442ad1bc0, Size=136
+[2018.11.29-17.33.17:300][716]LogUObjectGlobals: Created PersistentFrame Addr=0x000001244288e3e0, Size=136, Default__BP_EnemySpawner_C Function /Engine/Transient.REINST_BP_EnemySpawner_C_27:ExecuteUbergraph_BP_EnemySpawner
+[2018.11.29-17.33.17:303][716]LogUObjectGlobals: Created PersistentFrame Addr=0x000001244288d440, Size=136, Default__BP_EnemySpawner_C Function /Game/Blueprints/Enemy/BP_EnemySpawner.BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner
+[2018.11.29-17.33.18:275][716]LogUObjectGlobals: Created PersistentFrame Addr=0x000001246f4048e0, Size=200, Default__BP_Minigun_C Function /Game/Blueprints/Player/BP_Minigun.BP_Minigun_C:ExecuteUbergraph_BP_Minigun
+[2018.11.29-17.33.18:278][716]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001246f4048e0, Size=200
+[2018.11.29-17.33.18:278][716]LogUObjectGlobals: Created PersistentFrame Addr=0x000001247b0d7e40, Size=200, Default__BP_Minigun_C Function /Engine/Transient.REINST_BP_Minigun_C_29:ExecuteUbergraph_BP_Minigun
+[2018.11.29-17.33.18:279][716]LogUObjectGlobals: Created PersistentFrame Addr=0x000001247b0d73c0, Size=200, Default__BP_Minigun_C Function /Game/Blueprints/Player/BP_Minigun.BP_Minigun_C:ExecuteUbergraph_BP_Minigun
+[2018.11.29-17.33.18:283][716]LogUObjectGlobals: Created PersistentFrame Addr=0x000001247b0d7d60, Size=200, Default__BP_Shotgun_C Function /Game/Blueprints/Player/BP_Shotgun.BP_Shotgun_C:ExecuteUbergraph_BP_Shotgun
+[2018.11.29-17.33.18:285][716]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001247b0d7d60, Size=200
+[2018.11.29-17.33.18:285][716]LogUObjectGlobals: Created PersistentFrame Addr=0x000001247b0d7d60, Size=200, Default__BP_Shotgun_C Function /Engine/Transient.REINST_BP_Shotgun_C_31:ExecuteUbergraph_BP_Shotgun
+[2018.11.29-17.33.18:286][716]LogUObjectGlobals: Created PersistentFrame Addr=0x000001247b0d5ec0, Size=200, Default__BP_Shotgun_C Function /Game/Blueprints/Player/BP_Shotgun.BP_Shotgun_C:ExecuteUbergraph_BP_Shotgun
+[2018.11.29-17.33.18:288][716]LogUObjectGlobals: Created PersistentFrame Addr=0x000001246f8802c0, Size=288, Default__BP_WeaponSpawner_C Function /Game/Blueprints/Player/BP_WeaponSpawner.BP_WeaponSpawner_C:ExecuteUbergraph_BP_WeaponSpawner
+[2018.11.29-17.33.18:291][716]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001246f8802c0, Size=288
+[2018.11.29-17.33.18:291][716]LogUObjectGlobals: Created PersistentFrame Addr=0x000001246f8802c0, Size=288, Default__BP_WeaponSpawner_C Function /Engine/Transient.REINST_BP_WeaponSpawner_C_33:ExecuteUbergraph_BP_WeaponSpawner
+[2018.11.29-17.33.18:293][716]LogUObjectGlobals: Created PersistentFrame Addr=0x000001246f880540, Size=288, Default__BP_WeaponSpawner_C Function /Game/Blueprints/Player/BP_WeaponSpawner.BP_WeaponSpawner_C:ExecuteUbergraph_BP_WeaponSpawner
+[2018.11.29-17.33.19:289][716]LogUObjectGlobals: Created PersistentFrame Addr=0x0000012494391d00, Size=616, Default__BP_Malaria_C Function /Game/Blueprints/Enemy/BP_Malaria.BP_Malaria_C:ExecuteUbergraph_BP_Malaria
+[2018.11.29-17.33.19:294][716]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000012494391d00, Size=616
+[2018.11.29-17.33.19:294][716]LogUObjectGlobals: Created PersistentFrame Addr=0x0000012494391d00, Size=616, Default__BP_Malaria_C Function /Engine/Transient.REINST_BP_Malaria_C_35:ExecuteUbergraph_BP_Malaria
+[2018.11.29-17.33.19:298][716]LogUObjectGlobals: Created PersistentFrame Addr=0x000001249549a700, Size=616, Default__BP_Malaria_C Function /Game/Blueprints/Enemy/BP_Malaria.BP_Malaria_C:ExecuteUbergraph_BP_Malaria
+[2018.11.29-17.33.19:575][716]LogSlate: Took 0.000367 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.29-17.33.19:739][717]LogSlate: Took 0.000394 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.29-17.33.27:657][392]LogSlate: Window 'BP_Bon_Jovi' being destroyed
+[2018.11.29-17.33.30:833][767]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.29-17.33.32:081][912]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001242c042400, Size=784
+[2018.11.29-17.33.32:082][912]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001242c03d600, Size=656
+[2018.11.29-17.33.32:082][912]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001242c02f600, Size=616
+[2018.11.29-17.33.32:082][912]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001242c04b600, Size=304
+[2018.11.29-17.33.32:082][912]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001242bddb800, Size=472
+[2018.11.29-17.33.32:082][912]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001244288e3e0, Size=136
+[2018.11.29-17.33.32:082][912]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001247b0d7e40, Size=200
+[2018.11.29-17.33.32:082][912]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001247b0d7d60, Size=200
+[2018.11.29-17.33.32:082][912]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001246f8802c0, Size=288
+[2018.11.29-17.33.32:082][912]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000012494391d00, Size=616
+[2018.11.29-17.33.32:094][912]LightingResults: New page: Lighting Build
+[2018.11.29-17.33.32:095][912]LoadErrors: New page: Loading map: Level_01.umap
+[2018.11.29-17.33.32:096][912]MapCheck: New page: Map Check
+[2018.11.29-17.33.32:096][912]LightingResults: New page: Lighting Build
+[2018.11.29-17.33.32:231][912]LogUObjectGlobals: Created PersistentFrame Addr=0x00000124384d74c0, Size=192, Default__Level_01_C Function /Game/Maps/NormalLevels/Level_01.Level_01_C:ExecuteUbergraph_Level_01
+[2018.11.29-17.33.32:238][912]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000124384d74c0, Size=192
+[2018.11.29-17.33.32:238][912]LogUObjectGlobals: Created PersistentFrame Addr=0x00000124384d74c0, Size=192, Default__Level_01_C Function /Engine/Transient.REINST_Level_01_C_41:ExecuteUbergraph_Level_01
+[2018.11.29-17.33.32:245][912]LogUObjectGlobals: Created PersistentFrame Addr=0x000001243863c640, Size=192, Default__Level_01_C Function /Game/Maps/NormalLevels/Level_01.Level_01_C:ExecuteUbergraph_Level_01
+[2018.11.29-17.33.32:344][912]LogAIModule: Creating AISystem for world Level_01
+[2018.11.29-17.33.32:362][912]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.29-17.33.32:396][912]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000124384d74c0, Size=192
+[2018.11.29-17.33.32:431][912]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.29-17.33.32:536][912]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 104.649ms to complete.
+[2018.11.29-17.33.32:536][912]LogFileHelpers: Loading map 'Level_01' took 0.452
+[2018.11.29-17.33.32:538][912]LogSlate: Window 'Open Level' being destroyed
+[2018.11.29-17.35.20:999][404]AssetReimport: New page: Outstanding source content changes 17:35:20
+[2018.11.29-17.35.21:000][404]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets'n'Shit/heart.png)
+[2018.11.29-17.35.21:161][405]LogSavePackage: Save=18.72ms
+[2018.11.29-17.35.21:161][405]LogSavePackage: Moving 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Saved/heart0E3F97EF46C75A82131AB4914140F5F3.tmp' to 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets_n_Shit/heart.uasset'
+[2018.11.29-17.35.21:164][405]LogSavePackage: Display: Finished SavePackage D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets_n_Shit/heart.uasset
+[2018.11.29-17.35.24:177][763]AssetReimport: Importing new asset /Game/Blueprints/Widgets_n_Shit/heart.
+[2018.11.29-17.36.40:702][281]AssetReimport: New page: Outstanding source content changes 17:36:40
+[2018.11.29-17.36.40:789][281]LogEditorFactories: Performing atomic reimport of [D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/heart.png]
+[2018.11.29-17.36.40:789][281]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/heart.png)
+[2018.11.29-17.36.40:876][281]LogEditorFactories: -- imported successfully
+[2018.11.29-17.36.41:391][282]LogEditorFactories: Performing atomic reimport of [D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/handgun.png]
+[2018.11.29-17.36.41:393][282]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/handgun.png)
+[2018.11.29-17.36.42:026][282]LogEditorFactories: -- imported successfully
+[2018.11.29-17.36.42:323][283]LogEditorFactories: Performing atomic reimport of [D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/widget-behind.png]
+[2018.11.29-17.36.42:324][283]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/widget-behind.png)
+[2018.11.29-17.36.42:544][283]LogEditorFactories: -- imported successfully
+[2018.11.29-17.36.42:663][284]LogEditorFactories: Performing atomic reimport of [D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/RadialMask.png]
+[2018.11.29-17.36.42:663][284]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/RadialMask.png)
+[2018.11.29-17.36.42:758][284]LogEditorFactories: -- imported successfully
+[2018.11.29-17.36.43:398][285]LogEditorFactories: Performing atomic reimport of [D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/shotgun.png]
+[2018.11.29-17.36.43:400][285]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/shotgun.png)
+[2018.11.29-17.36.44:267][285]LogEditorFactories: -- imported successfully
+[2018.11.29-17.36.53:838][286]LogEditorFactories: Performing atomic reimport of [D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/RadialGradient.png]
+[2018.11.29-17.36.53:856][286]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/RadialGradient.png)
+[2018.11.29-17.37.04:975][286]LogEditorFactories: -- imported successfully
+[2018.11.29-17.37.05:148][287]LogEditorFactories: Performing atomic reimport of [D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/grenade.png]
+[2018.11.29-17.37.05:148][287]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/grenade.png)
+[2018.11.29-17.37.05:257][287]LogEditorFactories: -- imported successfully
+[2018.11.29-17.37.05:313][288]LogEditorFactories: Performing atomic reimport of [D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/circle.png]
+[2018.11.29-17.37.05:314][288]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/circle.png)
+[2018.11.29-17.37.05:379][288]LogEditorFactories: -- imported successfully
+[2018.11.29-17.37.05:670][289]LogSavePackage: Save=202.58ms
+[2018.11.29-17.37.05:671][289]LogSavePackage: Moving 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Saved/handgunD3EEC8464B62FC02882E90B7AFA77B77.tmp' to 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/handgun.uasset'
+[2018.11.29-17.37.05:679][289]LogSavePackage: Display: Finished SavePackage D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/handgun.uasset
+[2018.11.29-17.37.05:740][289]LogSavePackage: Save=30.03ms
+[2018.11.29-17.37.05:740][289]LogSavePackage: Moving 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Saved/widget-behind4A9D47814E56CE68932513BE3E1968C0.tmp' to 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/widget-behind.uasset'
+[2018.11.29-17.37.05:744][289]LogSavePackage: Display: Finished SavePackage D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/widget-behind.uasset
+[2018.11.29-17.37.05:797][289]LogSavePackage: Save=15.61ms
+[2018.11.29-17.37.05:797][289]LogSavePackage: Moving 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Saved/RadialMaskB32A45C24E940FE41422F58774651CFF.tmp' to 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/RadialMask.uasset'
+[2018.11.29-17.37.05:801][289]LogSavePackage: Display: Finished SavePackage D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/RadialMask.uasset
+[2018.11.29-17.37.06:068][289]LogSavePackage: Save=242.32ms
+[2018.11.29-17.37.06:068][289]LogSavePackage: Moving 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Saved/shotgun20C4E59C4DFE892FB02418B22F58FCF4.tmp' to 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/shotgun.uasset'
+[2018.11.29-17.37.06:072][289]LogSavePackage: Display: Finished SavePackage D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/shotgun.uasset
+[2018.11.29-17.37.08:764][289]LogSavePackage: Save=2658.23ms
+[2018.11.29-17.37.08:764][289]LogSavePackage: Moving 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Saved/RadialGradientBE82E26F4BFA741FF55A0298D80B3787.tmp' to 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/RadialGradient.uasset'
+[2018.11.29-17.37.08:770][289]LogSavePackage: Display: Finished SavePackage D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/RadialGradient.uasset
+[2018.11.29-17.37.08:814][289]LogSavePackage: Save=21.61ms
+[2018.11.29-17.37.08:814][289]LogSavePackage: Moving 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Saved/grenadeF526C1FC4CB14B94CB375EA9836A0765.tmp' to 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/grenade.uasset'
+[2018.11.29-17.37.08:818][289]LogSavePackage: Display: Finished SavePackage D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/grenade.uasset
+[2018.11.29-17.37.08:859][289]LogSavePackage: Save=18.27ms
+[2018.11.29-17.37.08:859][289]LogSavePackage: Moving 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Saved/circleE924600247D027E7D5F1A1843A877ED6.tmp' to 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/circle.uasset'
+[2018.11.29-17.37.08:863][289]LogSavePackage: Display: Finished SavePackage D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/circle.uasset
+[2018.11.29-17.37.11:886][365]AssetReimport: Reimported asset heart from D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/heart.png.
+[2018.11.29-17.37.11:886][365]AssetReimport: Reimported asset handgun from D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/handgun.png.
+[2018.11.29-17.37.11:887][365]AssetReimport: Reimported asset widget-behind from D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/widget-behind.png.
+[2018.11.29-17.37.11:887][365]AssetReimport: Reimported asset RadialMask from D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/RadialMask.png.
+[2018.11.29-17.37.11:887][365]AssetReimport: Reimported asset shotgun from D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/shotgun.png.
+[2018.11.29-17.37.11:887][365]AssetReimport: Reimported asset RadialGradient from D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/RadialGradient.png.
+[2018.11.29-17.37.11:887][365]AssetReimport: Reimported asset grenade from D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/grenade.png.
+[2018.11.29-17.37.11:887][365]AssetReimport: Reimported asset circle from D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/circle.png.
+[2018.11.29-17.37.27:313][ 70]LogLinker: Warning: Can't find file '/Game/M_RadialDial'
+[2018.11.29-17.37.27:313][ 70]LogLinker: Warning: Can't find file for asset '/Game/M_RadialDial' while loading D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/gameOverlay.uasset.
+[2018.11.29-17.37.27:313][ 70]LoadErrors: Error: /Game/Blueprints/Widgets/gameOverlay : Can't find file for asset. /Game/M_RadialDial
+[2018.11.29-17.37.27:314][ 70]LogLinker: Warning: Can't find file '/Game/handgun'
+[2018.11.29-17.37.27:314][ 70]LogLinker: Warning: Can't find file for asset '/Game/handgun' while loading D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/gameOverlay.uasset.
+[2018.11.29-17.37.27:314][ 70]LoadErrors: Error: /Game/Blueprints/Widgets/gameOverlay : Can't find file for asset. /Game/handgun
+[2018.11.29-17.37.27:314][ 70]LogLinker: Warning: Can't find file '/Game/M_RadialDial'
+[2018.11.29-17.37.27:314][ 70]LogLinker: Warning: Can't find file for asset '/Game/M_RadialDial' while loading D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/gameOverlay.uasset.
+[2018.11.29-17.37.27:314][ 70]LogLinker: Warning: Can't find file '/Game/widget-behind'
+[2018.11.29-17.37.27:314][ 70]LogLinker: Warning: Can't find file for asset '/Game/widget-behind' while loading D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/gameOverlay.uasset.
+[2018.11.29-17.37.27:314][ 70]LoadErrors: Error: /Game/Blueprints/Widgets/gameOverlay : Can't find file for asset. /Game/widget-behind
+[2018.11.29-17.37.27:314][ 70]LogLinker: Warning: Can't find file '/Game/handgun'
+[2018.11.29-17.37.27:314][ 70]LogLinker: Warning: Can't find file for asset '/Game/handgun' while loading D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/gameOverlay.uasset.
+[2018.11.29-17.37.27:314][ 70]LogLinker: Warning: Can't find file '/Game/widget-behind'
+[2018.11.29-17.37.27:315][ 70]LogLinker: Warning: Can't find file for asset '/Game/widget-behind' while loading D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/gameOverlay.uasset.
+[2018.11.29-17.37.27:315][ 70]LogUObjectGlobals: Created PersistentFrame Addr=0x00000124a8324880, Size=88, Default__gameOverlay_C Function /Game/Blueprints/Widgets/gameOverlay.gameOverlay_C:ExecuteUbergraph_gameOverlay
+[2018.11.29-17.37.27:315][ 70]LogLinker: Warning: Can't find file '/Game/M_RadialDial'
+[2018.11.29-17.37.27:315][ 70]LogLinker: Warning: Can't find file for asset '/Game/M_RadialDial' while loading NULL.
+[2018.11.29-17.37.27:316][ 70]LogLinker: Warning: Can't find file '/Game/handgun'
+[2018.11.29-17.37.27:316][ 70]LogLinker: Warning: Can't find file for asset '/Game/handgun' while loading NULL.
+[2018.11.29-17.37.27:316][ 70]LogLinker: Warning: Can't find file '/Game/M_RadialDial'
+[2018.11.29-17.37.27:316][ 70]LogLinker: Warning: Can't find file for asset '/Game/M_RadialDial' while loading NULL.
+[2018.11.29-17.37.27:316][ 70]LogLinker: Warning: Can't find file '/Game/widget-behind'
+[2018.11.29-17.37.27:316][ 70]LogLinker: Warning: Can't find file for asset '/Game/widget-behind' while loading NULL.
+[2018.11.29-17.37.27:316][ 70]LogLinker: Warning: Can't find file '/Game/handgun'
+[2018.11.29-17.37.27:316][ 70]LogLinker: Warning: Can't find file for asset '/Game/handgun' while loading NULL.
+[2018.11.29-17.37.27:316][ 70]LogLinker: Warning: Can't find file '/Game/widget-behind'
+[2018.11.29-17.37.27:316][ 70]LogLinker: Warning: Can't find file for asset '/Game/widget-behind' while loading NULL.
+[2018.11.29-17.37.27:317][ 70]LogLinker: Warning: Can't find file '/Game/M_RadialDial'
+[2018.11.29-17.37.27:317][ 70]LoadErrors: Failed to load /Game/M_RadialDial.M_RadialDial Referenced by circle
+[2018.11.29-17.37.27:317][ 70]LogLinker: Warning: Can't find file for asset '/Game/M_RadialDial' while loading NULL.
+[2018.11.29-17.37.27:317][ 70]LogLinker: Warning: Can't find file '/Game/widget-behind'
+[2018.11.29-17.37.27:317][ 70]LoadErrors: Failed to load /Game/widget-behind.widget-behind Referenced by widget-bg
+[2018.11.29-17.37.27:317][ 70]LogLinker: Warning: Can't find file for asset '/Game/widget-behind' while loading NULL.
+[2018.11.29-17.37.27:318][ 70]LogLinker: Warning: Can't find file '/Game/handgun'
+[2018.11.29-17.37.27:318][ 70]LoadErrors: Failed to load /Game/handgun.handgun Referenced by weapon-image
+[2018.11.29-17.37.27:318][ 70]LogLinker: Warning: Can't find file for asset '/Game/handgun' while loading NULL.
+[2018.11.29-17.37.27:318][ 70]LogLinker: Warning: Can't find file '/Game/M_RadialDial'
+[2018.11.29-17.37.27:318][ 70]LoadErrors: Failed to load /Game/M_RadialDial.M_RadialDial Referenced by K2Node_CallMaterialParameterCollectionFunction_0
+[2018.11.29-17.37.27:319][ 70]LogLinker: Warning: Can't find file for asset '/Game/M_RadialDial' while loading NULL.
+[2018.11.29-17.37.27:320][ 70]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000124a8324880, Size=88
+[2018.11.29-17.37.27:320][ 70]LogUObjectGlobals: Created PersistentFrame Addr=0x00000124a8325300, Size=88, Default__gameOverlay_C Function /Engine/Transient.REINST_gameOverlay_C_0:ExecuteUbergraph_gameOverlay
+[2018.11.29-17.37.27:322][ 70]LogUObjectGlobals: Created PersistentFrame Addr=0x00000124a8325d20, Size=88, Default__gameOverlay_C Function /Game/Blueprints/Widgets/gameOverlay.gameOverlay_C:ExecuteUbergraph_gameOverlay
+[2018.11.29-17.37.53:923][ 65]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000124a8325300, Size=88
+[2018.11.29-17.37.59:317][ 65]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.29-17.38.21:973][367]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.29-17.38.22:115][367]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.29-17.38.22:213][367]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.29-17.38.22:382][367]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.29-17.38.22:467][367]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.29-17.38.22:564][367]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.29-17.38.22:693][367]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.29-17.38.22:797][367]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.29-17.38.22:896][367]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.29-17.38.30:198][476]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\pngshit\female1\BonaLisaAngry.png)
+[2018.11.29-17.38.30:284][476]LogTexture: Display: Building textures: BonaLisaAngry (AutoDXT, 1920X1080)
+[2018.11.29-17.38.31:931][476]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\pngshit\female1\BonaLisaHappy.png)
+[2018.11.29-17.38.32:060][476]LogTexture: Display: Building textures: BonaLisaHappy (AutoDXT, 1920X1080)
+[2018.11.29-17.38.32:903][476]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\pngshit\female1\BonaLisaNeutral.png)
+[2018.11.29-17.38.32:983][476]LogTexture: Display: Building textures: BonaLisaNeutral (AutoDXT, 1920X1080)
+[2018.11.29-17.38.50:525][150]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.29-17.38.59:779][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\pngshit\male\JonHappy.png)
+[2018.11.29-17.38.59:850][354]LogTexture: Display: Building textures: JonHappy (AutoDXT, 1920X1080)
+[2018.11.29-17.39.00:562][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\pngshit\male\JonNeutral.png)
+[2018.11.29-17.39.00:663][354]LogTexture: Display: Building textures: JonNeutral (AutoDXT, 1920X1080)
+[2018.11.29-17.39.01:384][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\pngshit\male\JonAngry.png)
+[2018.11.29-17.39.01:471][354]LogTexture: Display: Building textures: JonAngry (AutoDXT, 1920X1080)
+[2018.11.29-17.39.51:083][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-17.39.51:159][281]LogSlate: Window 'JonAngry_Sprite*' being destroyed
+[2018.11.29-17.39.51:162][281]LogSlate: Window 'JonAngry_Sprite*' being destroyed
+[2018.11.29-17.39.54:231][634]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001243863c640, Size=192
+[2018.11.29-17.39.54:231][634]LogUObjectGlobals: Created PersistentFrame Addr=0x0000012441a10dc0, Size=192, Default__Level_01_C Function /Engine/Transient.REINST_Level_01_C_46:ExecuteUbergraph_Level_01
+[2018.11.29-17.39.54:237][634]LogUObjectGlobals: Created PersistentFrame Addr=0x0000012437a04940, Size=192, Default__Level_01_C Function /Game/Maps/NormalLevels/Level_01.Level_01_C:ExecuteUbergraph_Level_01
+[2018.11.29-17.39.54:509][634]LogSavePackage: Save=305.50ms
+[2018.11.29-17.39.54:509][634]LogSavePackage: Moving 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Saved/Level_018A1DAD1540B3B834D485C79F7064BEEB.tmp' to 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Maps/NormalLevels/Level_01.umap'
+[2018.11.29-17.39.54:513][634]LogSavePackage: Display: Finished SavePackage D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Maps/NormalLevels/Level_01.umap
+[2018.11.29-17.39.56:716][868]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000012441a10dc0, Size=192
+[2018.11.29-17.39.56:757][868]LogSavePackage: Save=18.46ms
+[2018.11.29-17.39.56:757][868]LogSavePackage: Moving 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Saved/heart705C94ED40C2F16094641AAFE14628CF.tmp' to 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/heart.uasset'
+[2018.11.29-17.39.56:761][868]LogSavePackage: Display: Finished SavePackage D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/Widgets/heart.uasset
+[2018.11.29-17.39.56:866][868]LogSavePackage: Save=98.40ms
+[2018.11.29-17.39.56:866][868]LogSavePackage: Moving 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Saved/JonHappy56EAA6CC45215A6550B3E9B3366B49D4.tmp' to 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/JonBoneJovi/JonHappy.uasset'
+[2018.11.29-17.39.56:870][868]LogSavePackage: Display: Finished SavePackage D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/JonBoneJovi/JonHappy.uasset
+[2018.11.29-17.39.57:035][868]LogSavePackage: Save=148.98ms
+[2018.11.29-17.39.57:035][868]LogSavePackage: Moving 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Saved/JonNeutralA345015F456F087C2392489943B6DA60.tmp' to 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/JonBoneJovi/JonNeutral.uasset'
+[2018.11.29-17.39.57:042][868]LogSavePackage: Display: Finished SavePackage D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/JonBoneJovi/JonNeutral.uasset
+[2018.11.29-17.39.57:189][868]LogSavePackage: Save=130.77ms
+[2018.11.29-17.39.57:189][868]LogSavePackage: Moving 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Saved/BonaLisaAngry5C5A5E4C4DA77DBBA09093997E2D645A.tmp' to 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/BonaLisa/BonaLisaAngry.uasset'
+[2018.11.29-17.39.57:196][868]LogSavePackage: Display: Finished SavePackage D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/BonaLisa/BonaLisaAngry.uasset
+[2018.11.29-17.39.57:360][868]LogSavePackage: Save=146.90ms
+[2018.11.29-17.39.57:360][868]LogSavePackage: Moving 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Saved/BonaLisaHappy628A0A214F391E0CCFAB5DAAB58779B5.tmp' to 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/BonaLisa/BonaLisaHappy.uasset'
+[2018.11.29-17.39.57:365][868]LogSavePackage: Display: Finished SavePackage D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/BonaLisa/BonaLisaHappy.uasset
+[2018.11.29-17.39.57:476][868]LogSavePackage: Save=95.24ms
+[2018.11.29-17.39.57:476][868]LogSavePackage: Moving 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Saved/BonaLisaNeutral899D60C24DD242723460E481944E8419.tmp' to 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/BonaLisa/BonaLisaNeutral.uasset'
+[2018.11.29-17.39.57:480][868]LogSavePackage: Display: Finished SavePackage D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/BonaLisa/BonaLisaNeutral.uasset
+[2018.11.29-17.39.57:524][868]LogSavePackage: Save=8.19ms
+[2018.11.29-17.39.57:524][868]LogSavePackage: Moving 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Saved/BonaLisaAngry_Sprite05EEB0404BD2E2D596A0DE8A696E64E3.tmp' to 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/BonaLisa/BonaLisaAngry_Sprite.uasset'
+[2018.11.29-17.39.57:528][868]LogSavePackage: Display: Finished SavePackage D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/BonaLisa/BonaLisaAngry_Sprite.uasset
+[2018.11.29-17.39.57:561][868]LogSavePackage: Save=7.69ms
+[2018.11.29-17.39.57:561][868]LogSavePackage: Moving 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Saved/BonaLisaHappy_SpriteE9C4A2584F1D4E0A935E2497AF56E20C.tmp' to 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/BonaLisa/BonaLisaHappy_Sprite.uasset'
+[2018.11.29-17.39.57:565][868]LogSavePackage: Display: Finished SavePackage D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/BonaLisa/BonaLisaHappy_Sprite.uasset
+[2018.11.29-17.39.57:590][868]LogSavePackage: Save=7.32ms
+[2018.11.29-17.39.57:590][868]LogSavePackage: Moving 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Saved/BonaLisaNeutral_SpriteD8EE70204FEF65AAA35FE4B92256C3FC.tmp' to 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/BonaLisa/BonaLisaNeutral_Sprite.uasset'
+[2018.11.29-17.39.57:593][868]LogSavePackage: Display: Finished SavePackage D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/BonaLisa/BonaLisaNeutral_Sprite.uasset
+[2018.11.29-17.39.57:738][868]LogSavePackage: Save=134.92ms
+[2018.11.29-17.39.57:738][868]LogSavePackage: Moving 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Saved/JonAngry2753A87C4A537E77FC1B8CA000DC0EB2.tmp' to 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/JonBoneJovi/JonAngry.uasset'
+[2018.11.29-17.39.57:743][868]LogSavePackage: Display: Finished SavePackage D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/JonBoneJovi/JonAngry.uasset
+[2018.11.29-17.39.57:786][868]LogSavePackage: Save=18.99ms
+[2018.11.29-17.39.57:787][868]LogSavePackage: Moving 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Saved/JonAngry_Sprite19DC0DEC45F9A3B8623C91ACDEFFB167.tmp' to 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/JonBoneJovi/JonAngry_Sprite.uasset'
+[2018.11.29-17.39.57:793][868]LogSavePackage: Display: Finished SavePackage D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/JonBoneJovi/JonAngry_Sprite.uasset
+[2018.11.29-17.39.57:825][868]LogSavePackage: Save=14.09ms
+[2018.11.29-17.39.57:825][868]LogSavePackage: Moving 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Saved/JonHappy_Sprite9E575AE345FD8B6E5E0330A593CD8D9E.tmp' to 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/JonBoneJovi/JonHappy_Sprite.uasset'
+[2018.11.29-17.39.57:829][868]LogSavePackage: Display: Finished SavePackage D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/JonBoneJovi/JonHappy_Sprite.uasset
+[2018.11.29-17.39.57:851][868]LogSavePackage: Save=9.76ms
+[2018.11.29-17.39.57:851][868]LogSavePackage: Moving 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Saved/JonNeutral_Sprite0565D131463649FDDAC335AD8EAB87ED.tmp' to 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/JonBoneJovi/JonNeutral_Sprite.uasset'
+[2018.11.29-17.39.57:855][868]LogSavePackage: Display: Finished SavePackage D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/JonBoneJovi/JonNeutral_Sprite.uasset
+[2018.11.29-17.40.06:795][516]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.29-17.40.20:824][971]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\pngshit\female2\MalariaHappy.png)
+[2018.11.29-17.40.20:943][971]LogTexture: Display: Building textures: MalariaHappy (AutoDXT, 1920X1080)
+[2018.11.29-17.40.21:719][971]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\pngshit\female2\MalariaNeutral.png)
+[2018.11.29-17.40.21:795][971]LogTexture: Display: Building textures: MalariaNeutral (AutoDXT, 1920X1080)
+[2018.11.29-17.40.22:519][971]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\pngshit\female2\MalariaAngry.png)
+[2018.11.29-17.40.22:581][971]LogTexture: Display: Building textures: MalariaAngry (AutoDXT, 1920X1080)
+[2018.11.29-17.40.32:936][972]LogSavePackage: Save=100.95ms
+[2018.11.29-17.40.32:936][972]LogSavePackage: Moving 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Saved/MalariaHappy441015484A527A6494DD98A96FAEE155.tmp' to 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/Malaria/MalariaHappy.uasset'
+[2018.11.29-17.40.32:940][972]LogSavePackage: Display: Finished SavePackage D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/Malaria/MalariaHappy.uasset
+[2018.11.29-17.40.33:054][972]LogSavePackage: Save=100.92ms
+[2018.11.29-17.40.33:054][972]LogSavePackage: Moving 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Saved/MalariaNeutralA7FC638D4112AEEFD06950899B24AA24.tmp' to 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/Malaria/MalariaNeutral.uasset'
+[2018.11.29-17.40.33:058][972]LogSavePackage: Display: Finished SavePackage D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/Malaria/MalariaNeutral.uasset
+[2018.11.29-17.40.33:170][972]LogSavePackage: Save=97.89ms
+[2018.11.29-17.40.33:170][972]LogSavePackage: Moving 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Saved/MalariaAngryBD7BBA84433F0CDA91830D85B302507C.tmp' to 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/Malaria/MalariaAngry.uasset'
+[2018.11.29-17.40.33:174][972]LogSavePackage: Display: Finished SavePackage D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/Malaria/MalariaAngry.uasset
+[2018.11.29-17.40.33:202][972]LogSavePackage: Save=7.60ms
+[2018.11.29-17.40.33:202][972]LogSavePackage: Moving 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Saved/MalariaAngry_Sprite6531F38342B83199E45CDEAD1A11630F.tmp' to 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/Malaria/MalariaAngry_Sprite.uasset'
+[2018.11.29-17.40.33:206][972]LogSavePackage: Display: Finished SavePackage D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/Malaria/MalariaAngry_Sprite.uasset
+[2018.11.29-17.40.33:224][972]LogSavePackage: Save=7.43ms
+[2018.11.29-17.40.33:224][972]LogSavePackage: Moving 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Saved/MalariaHappy_Sprite63D4FF114015C899EA48E28C86B43CCF.tmp' to 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/Malaria/MalariaHappy_Sprite.uasset'
+[2018.11.29-17.40.33:228][972]LogSavePackage: Display: Finished SavePackage D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/Malaria/MalariaHappy_Sprite.uasset
+[2018.11.29-17.40.33:248][972]LogSavePackage: Save=7.46ms
+[2018.11.29-17.40.33:248][972]LogSavePackage: Moving 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Saved/MalariaNeutral_SpriteB87A185E4CAD9BBC276A7B847ACB17F6.tmp' to 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/Malaria/MalariaNeutral_Sprite.uasset'
+[2018.11.29-17.40.33:252][972]LogSavePackage: Display: Finished SavePackage D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Assets/Images/Malaria/MalariaNeutral_Sprite.uasset
+[2018.11.29-17.40.36:691][374]LightingResults: New page: Lighting Build
+[2018.11.29-17.40.36:692][374]LoadErrors: New page: Loading map: BonaDate.umap
+[2018.11.29-17.40.36:693][374]MapCheck: New page: Map Check
+[2018.11.29-17.40.36:693][374]LightingResults: New page: Lighting Build
+[2018.11.29-17.40.36:709][374]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000012437a04940, Size=192
+[2018.11.29-17.40.36:727][374]LogUObjectGlobals: Created PersistentFrame Addr=0x000001245b1bcf90, Size=80, Default__DisplayDialogue_C Function /Game/Blueprints/DatingSimBlueprints/DisplayDialogue.DisplayDialogue_C:ExecuteUbergraph_DisplayDialogue
+[2018.11.29-17.40.36:731][374]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001245b1bcf90, Size=80
+[2018.11.29-17.40.36:731][374]LogUObjectGlobals: Created PersistentFrame Addr=0x000001242bf412b0, Size=80, Default__DisplayDialogue_C Function /Engine/Transient.REINST_DisplayDialogue_C_1:ExecuteUbergraph_DisplayDialogue
+[2018.11.29-17.40.36:733][374]LogUObjectGlobals: Created PersistentFrame Addr=0x000001245b0ca250, Size=80, Default__DisplayDialogue_C Function /Game/Blueprints/DatingSimBlueprints/DisplayDialogue.DisplayDialogue_C:ExecuteUbergraph_DisplayDialogue
+[2018.11.29-17.40.36:751][374]LogUObjectGlobals: Created PersistentFrame Addr=0x00000124ace95580, Size=528, Default__BonaLisaCharacter_Blueprint_C Function /Game/Blueprints/DatingSimBlueprints/BonaLisaCharacter_Blueprint.BonaLisaCharacter_Blueprint_C:ExecuteUbergraph_BonaLisaCharacter_Blueprint
+[2018.11.29-17.40.36:765][374]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000124ace95580, Size=528
+[2018.11.29-17.40.36:765][374]LogUObjectGlobals: Created PersistentFrame Addr=0x000001242c02e200, Size=528, Default__BonaLisaCharacter_Blueprint_C Function /Engine/Transient.REINST_BonaLisaCharacter_Blueprint_C_49:ExecuteUbergraph_BonaLisaCharacter_Blueprint
+[2018.11.29-17.40.36:776][374]LogUObjectGlobals: Created PersistentFrame Addr=0x00000124ace65800, Size=528, Default__BonaLisaCharacter_Blueprint_C Function /Game/Blueprints/DatingSimBlueprints/BonaLisaCharacter_Blueprint.BonaLisaCharacter_Blueprint_C:ExecuteUbergraph_BonaLisaCharacter_Blueprint
+[2018.11.29-17.40.36:843][374]LogAIModule: Creating AISystem for world BonaDate
+[2018.11.29-17.40.36:850][374]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.29-17.40.36:877][374]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001242c02e200, Size=528
+[2018.11.29-17.40.36:877][374]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001242bf412b0, Size=80
+[2018.11.29-17.40.36:914][374]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.29-17.40.37:032][374]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 117.72ms to complete.
+[2018.11.29-17.40.37:032][374]LogFileHelpers: Loading map 'BonaDate' took 0.349
+[2018.11.29-17.40.37:034][374]LogSlate: Window 'Open Level' being destroyed
+[2018.11.29-17.40.38:314][510]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.29-17.40.38:338][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.29-17.40.38:338][510]PIE: New page: PIE session: BonaDate (29 Nov 2018 17:40:38)
+[2018.11.29-17.40.38:339][510]LogPlayLevel: Creating play world package: /Game/Maps/DatingLevels/UEDPIE_0_BonaDate
+[2018.11.29-17.40.38:341][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002207s)
+[2018.11.29-17.40.38:342][510]LogAIModule: Creating AISystem for world BonaDate
+[2018.11.29-17.40.38:342][510]LogPlayLevel: PIE: World Init took: (0.000600s)
+[2018.11.29-17.40.38:342][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DatingLevels/BonaDate.BonaDate to /Game/Maps/DatingLevels/UEDPIE_0_BonaDate.BonaDate (0.002951s)
+[2018.11.29-17.40.38:362][510]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.29-17.40.38:390][510]LogInit: FAudioDevice initialized.
+[2018.11.29-17.40.38:457][510]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.29-17.40.38:459][510]LogWorld: Bringing World /Game/Maps/DatingLevels/UEDPIE_0_BonaDate.BonaDate up for play (max tick rate 0) at 2018.11.29-17.40.38
+[2018.11.29-17.40.38:459][510]LogWorld: Bringing up level for play took: 0.000619
+[2018.11.29-17.40.38:462][510]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.11.29-17.40.38:464][510]PIE: Play in editor start time for /Game/Maps/DatingLevels/UEDPIE_0_BonaDate 1.027
+[2018.11.29-17.40.59:143][975]LogEditorViewport: Clicking on Actor (LMB): BonaLisaCharacter_Blueprint_C (BonaLisaCharacter_Blueprint)
+[2018.11.29-17.41.00:273][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.29-17.41.06:304][544]LogRenderer: Reallocating scene render targets to support 1584x1000 Format 10 NumSamples 1 (Frame:1).
+[2018.11.29-17.41.11:386][130]LogUObjectGlobals: Created PersistentFrame Addr=0x000001245e5a0d00, Size=4, Default__SKEL_BonaLisaCharacter_Blueprint_C Function /Game/Blueprints/DatingSimBlueprints/BonaLisaCharacter_Blueprint.SKEL_BonaLisaCharacter_Blueprint_C:ExecuteUbergraph_BonaLisaCharacter_Blueprint
+[2018.11.29-17.41.20:888][245]BlueprintLog: New page: Compile BonaLisaCharacter_Blueprint
+[2018.11.29-17.41.20:923][245]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001245e5a0d00, Size=4
+[2018.11.29-17.41.20:923][245]LogUObjectGlobals: Created PersistentFrame Addr=0x00000124a8dfd038, Size=4, Default__SKEL_BonaLisaCharacter_Blueprint_C Function /Engine/Transient.REINST_SKEL_BonaLisaCharacter_Blueprint_C_53:ExecuteUbergraph_BonaLisaCharacter_Blueprint
+[2018.11.29-17.41.20:958][245]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000124ace65800, Size=528
+[2018.11.29-17.41.20:958][245]LogUObjectGlobals: Created PersistentFrame Addr=0x0000012423a35300, Size=528, Default__BonaLisaCharacter_Blueprint_C Function /Engine/Transient.REINST_BonaLisaCharacter_Blueprint_C_55:ExecuteUbergraph_BonaLisaCharacter_Blueprint
+[2018.11.29-17.41.20:968][245]LogUObjectGlobals: Created PersistentFrame Addr=0x000001242533ac00, Size=528, Default__BonaLisaCharacter_Blueprint_C Function /Game/Blueprints/DatingSimBlueprints/BonaLisaCharacter_Blueprint.BonaLisaCharacter_Blueprint_C:ExecuteUbergraph_BonaLisaCharacter_Blueprint
+[2018.11.29-17.41.21:189][245]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000124a8dfd038, Size=4
+[2018.11.29-17.41.21:800][282]LogSavePackage: Save=109.04ms
+[2018.11.29-17.41.21:801][282]LogSavePackage: Moving 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Saved/BonaLisaCharacter_Blueprint937FD97A4CEE29436AA27A9CA13F4B00.tmp' to 'D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/DatingSimBlueprints/BonaLisaCharacter_Blueprint.uasset'
+[2018.11.29-17.41.21:805][282]LogSavePackage: Display: Finished SavePackage D:/GJStruggle/Version 4-20181129T112407Z-001/Version 4/GameJam-20181128T144538Z-001/GameJam/MyProject2/MyProject/Content/Blueprints/DatingSimBlueprints/BonaLisaCharacter_Blueprint.uasset
+[2018.11.29-17.41.23:093][434]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.29-17.41.23:113][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.29-17.41.23:113][434]PIE: New page: PIE session: BonaDate (29 Nov 2018 17:41:23)
+[2018.11.29-17.41.23:114][434]LogPlayLevel: Creating play world package: /Game/Maps/DatingLevels/UEDPIE_0_BonaDate
+[2018.11.29-17.41.23:115][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001349s)
+[2018.11.29-17.41.23:115][434]LogAIModule: Creating AISystem for world BonaDate
+[2018.11.29-17.41.23:116][434]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2018.11.29-17.41.23:116][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DatingLevels/BonaDate.BonaDate to /Game/Maps/DatingLevels/UEDPIE_0_BonaDate.BonaDate (0.002148s)
+[2018.11.29-17.41.23:129][434]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000012423a35300, Size=528
+[2018.11.29-17.41.23:136][434]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.29-17.41.23:158][434]LogInit: FAudioDevice initialized.
+[2018.11.29-17.41.23:187][434]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.29-17.41.23:188][434]LogWorld: Bringing World /Game/Maps/DatingLevels/UEDPIE_0_BonaDate.BonaDate up for play (max tick rate 0) at 2018.11.29-17.41.23
+[2018.11.29-17.41.23:188][434]LogWorld: Bringing up level for play took: 0.000607
+[2018.11.29-17.41.23:190][434]PIE: Play in editor start time for /Game/Maps/DatingLevels/UEDPIE_0_BonaDate -0.247
+[2018.11.29-17.41.26:090][781]LogNet: Browse: /Game/Maps/NormalLevels/Level_02
+[2018.11.29-17.41.26:090][781]LogLoad: LoadMap: /Game/Maps/NormalLevels/Level_02
+[2018.11.29-17.41.26:176][781]LogUObjectGlobals: Created PersistentFrame Addr=0x00000124a7e4a680, Size=176, Default__Level_02_C Function /Game/Maps/NormalLevels/Level_02.Level_02_C:ExecuteUbergraph_Level_02
+[2018.11.29-17.41.26:184][781]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000124a7e4a680, Size=176
+[2018.11.29-17.41.26:184][781]LogUObjectGlobals: Created PersistentFrame Addr=0x00000124a7e4a680, Size=176, Default__Level_02_C Function /Engine/Transient.REINST_Level_02_C_57:ExecuteUbergraph_Level_02
+[2018.11.29-17.41.26:191][781]LogUObjectGlobals: Created PersistentFrame Addr=0x00000124a3369600, Size=176, Default__Level_02_C Function /Game/Maps/NormalLevels/Level_02.Level_02_C:ExecuteUbergraph_Level_02
+[2018.11.29-17.41.26:749][781]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.514 s
+[2018.11.29-17.41.26:749][781]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.29-17.41.26:749][781]LogOutputDevice: Error: 
+[2018.11.29-17.41.26:749][781]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2018.11.29-17.41.26:749][781]LogOutputDevice: Error: 
+[2018.11.29-17.41.26:749][781]LogOutputDevice: Error: Stack: 
+[2018.11.29-17.41.26:749][781]LogOutputDevice: Error: [Callstack] 0x0000000057D8B706 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.29-17.41.26:749][781]LogOutputDevice: Error: [Callstack] 0x0000000057AEAE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.11.29-17.41.26:749][781]LogOutputDevice: Error: [Callstack] 0x0000000057AFECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.29-17.41.26:749][781]LogOutputDevice: Error: [Callstack] 0x000000005060BBE9 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.11.29-17.41.26:749][781]LogOutputDevice: Error: [Callstack] 0x00000000505DD28D UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.11.29-17.41.26:749][781]LogOutputDevice: Error: [Callstack] 0x00000000572F6F37 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.29-17.41.26:749][781]LogOutputDevice: Error: [Callstack] 0x000000005763C010 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.29-17.41.26:749][781]LogOutputDevice: Error: [Callstack] 0x000000005765312B UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.29-17.41.26:749][781]LogOutputDevice: Error: [Callstack] 0x0000000057652544 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.29-17.41.26:749][781]LogOutputDevice: Error: [Callstack] 0x00000000537C917A UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.29-17.41.26:749][781]LogOutputDevice: Error: [Callstack] 0x000000005377C788 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.29-17.41.26:749][781]LogOutputDevice: Error: [Callstack] 0x00000000537EA4A0 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.29-17.41.26:749][781]LogOutputDevice: Error: [Callstack] 0x0000000055C8CD20 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.29-17.41.26:749][781]LogOutputDevice: Error: [Callstack] 0x0000000056529626 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.29-17.41.26:749][781]LogOutputDevice: Error: [Callstack] 0x00000000F0F55EAC UE4Editor.exe!UnknownFunction []
+[2018.11.29-17.41.26:749][781]LogOutputDevice: Error: [Callstack] 0x00000000F0F66BD0 UE4Editor.exe!UnknownFunction []
+[2018.11.29-17.41.26:749][781]LogOutputDevice: Error: [Callstack] 0x00000000F0F66C4A UE4Editor.exe!UnknownFunction []
+[2018.11.29-17.41.26:749][781]LogOutputDevice: Error: [Callstack] 0x00000000F0F74177 UE4Editor.exe!UnknownFunction []
+[2018.11.29-17.41.26:749][781]LogOutputDevice: Error: [Callstack] 0x00000000F0F75B87 UE4Editor.exe!UnknownFunction []
+[2018.11.29-17.41.26:749][781]LogOutputDevice: Error: [Callstack] 0x0000000097F11FE4 KERNEL32.dll!UnknownFunction []
+[2018.11.29-17.41.26:749][781]LogOutputDevice: Error: [Callstack] 0x000000009A44CB81 ntdll.dll!UnknownFunction []
+[2018.11.29-17.41.26:749][781]LogOutputDevice: Error: 
+[2018.11.29-17.41.26:755][781]LogStats:                SubmitErrorReport -  0.000 s
